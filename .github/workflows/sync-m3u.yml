@@ -1,4 +1,4 @@
-name: Sync upstream and patch M3U
+name: Sync IPTV submodule and patch M3U
 
 on:
   push:
@@ -14,46 +14,56 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repository + submodules
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          submodules: recursive
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configure git
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Add upstream remote
+      - name: Update submodule from upstream
         run: |
-          if ! git remote | grep -q '^upstream$'; then
-            git remote add upstream "${{ vars.UPSTREAM_REPO }}"
-          fi
+          cd jp-iptv-reaperc
 
-      - name: Sync with upstream
+          git fetch origin
+
+          BRANCH=$(git branch --show-current)
+
+          git pull --rebase origin "$BRANCH" || \
+          git pull --rebase origin main || \
+          git pull --rebase origin master
+
+      - name: Patch M3U files inside submodule
         run: |
-          git fetch upstream
-
-          BRANCH="${GITHUB_REF_NAME}"
-
-          git pull --rebase upstream "$BRANCH" || \
-          git pull --rebase upstream main || \
-          git pull --rebase upstream master
-
-      - name: Patch M3U files
-        run: |
-          find . -type f -name "*.m3u" | while read file; do
+          find jp-iptv-reaperc -type f -name "*.m3u" | while read file; do
             perl -0777 -i -pe \
             's/(?<=(\nhttp(?!.*\|user-agent=VLC).+))\n/|user-agent=VLC\n/g' \
             "$file"
           done
 
-      - name: Commit and push changes
+      - name: Commit submodule changes
         run: |
+          cd jp-iptv-reaperc
+
           git add .
 
           if ! git diff --cached --quiet; then
-            git commit -m "Sync upstream and add VLC user-agent"
+            git commit -m "Add VLC user-agent to M3U streams"
+            git push origin HEAD
+          fi
+
+      - name: Commit updated submodule pointer
+        run: |
+          cd ..
+
+          git add jp-iptv-reaperc
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update jp-iptv-reaperc submodule"
             git push origin HEAD
           fi
