@@ -42,7 +42,7 @@ jobs:
         run: |
           find jp-iptv-reaperc -type f -name "*.m3u" | while read file; do
             perl -0777 -i -pe \
-            's/(?<=(\nhttp(?!.*\|user-agent=VLC).+))\n/|user-agent=VLC\n/g' \
+            's/(?<=(\nhttp.+))\n/|user-agent=VLC\n/g' \
             "$file"
           done
 
