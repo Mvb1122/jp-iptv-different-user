@@ -1,0 +1,59 @@
+name: Sync upstream and patch M3U
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync-and-patch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Add upstream remote
+        run: |
+          if ! git remote | grep -q '^upstream$'; then
+            git remote add upstream "${{ vars.UPSTREAM_REPO }}"
+          fi
+
+      - name: Sync with upstream
+        run: |
+          git fetch upstream
+
+          BRANCH="${GITHUB_REF_NAME}"
+
+          git pull --rebase upstream "$BRANCH" || \
+          git pull --rebase upstream main || \
+          git pull --rebase upstream master
+
+      - name: Patch M3U files
+        run: |
+          find . -type f -name "*.m3u" | while read file; do
+            perl -0777 -i -pe \
+            's/(?<=(\nhttp(?!.*\|user-agent=VLC).+))\n/|user-agent=VLC\n/g' \
+            "$file"
+          done
+
+      - name: Commit and push changes
+        run: |
+          git add .
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Sync upstream and add VLC user-agent"
+            git push origin HEAD
+          fi

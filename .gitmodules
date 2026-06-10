@@ -1,0 +1,3 @@
+[submodule "jp-iptv-reaperc"]
+	path = jp-iptv-reaperc
+	url = https://gitflic.ru/project/reaperc/jp-iptv.git
