@@ -38,33 +38,28 @@ jobs:
           git pull --rebase origin main || \
           git pull --rebase origin master
 
-      - name: Patch M3U files inside submodule
+      - name: Create output directory
+        run: |
+          mkdir -p out
+
+      - name: Copy and patch M3U files
         run: |
           find jp-iptv-reaperc -type f -name "*.m3u" | while read file; do
-            perl -0777 -i -pe \
+            rel="${file#jp-iptv-reaperc/}"
+            out="out/$rel"
+
+            mkdir -p "$(dirname "$out")"
+
+            perl -0777 -pe \
             's#(\nhttp(?![^\n]*\|user-agent=VLC)[^\n]*)\n#$1|user-agent=VLC\n#g' \
-            "$file"
+            "$file" > "$out"
           done
 
-
-      - name: Commit submodule changes
+      - name: Commit generated playlists
         run: |
-          cd jp-iptv-reaperc
-
-          git add .
+          git add out
 
           if ! git diff --cached --quiet; then
-            git commit -m "Add VLC user-agent to M3U streams"
-            git push origin HEAD
-          fi
-
-      - name: Commit updated submodule pointer
-        run: |
-          cd ..
-
-          git add jp-iptv-reaperc
-
-          if ! git diff --cached --quiet; then
-            git commit -m "Update jp-iptv-reaperc submodule"
+            git commit -m "Update generated IPTV playlists"
             git push origin HEAD
           fi
