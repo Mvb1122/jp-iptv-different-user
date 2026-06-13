@@ -3,487 +3,367 @@
 # === ラクテンTV ===
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_47" tvg-name="日テレNEWS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png",日テレNEWS
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_108" tvg-name="FNNプライムオンライン" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png",FNNプライムオンライン
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_115" tvg-name="MBSニュース" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png",MBSニュース
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_101" tvg-name="日テレNEWSセレクト" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/110_ntvnewsselect.png",日テレNEWSセレクト
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_56" tvg-name="共同通信News" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png",共同通信News
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_103" tvg-name="NewsWorld" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_NewsWorld.png",NewsWorld
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_54" tvg-name="オリコンニュース" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews_02.png",オリコンニュース
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_83" tvg-name="STOCK VOICE" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png",STOCK VOICE
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_70" tvg-name="Bloomberg TV+" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/114_bloombergtv.png",Bloomberg TV+
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_90" tvg-name="Euronews" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_euronews.png",Euronews
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_120" tvg-name="Reuters 60" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_reuters.png",Reuters 60
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_89" tvg-name="TOP BARÇA" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/119_top-barca.png",TOP BARÇA
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_97" tvg-name="NTV Pro Wrestling" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/124_ntvprowrestling.png",NTV Pro Wrestling
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_48" tvg-name="刺激ストロングSPORTS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png",刺激ストロングSPORTS
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_64" tvg-name="FUEL TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png",FUEL TV
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_94" tvg-name="NEW KPOP" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/156_newk-pop.png",NEW KPOP
-#EXTVLCOPT:http-user-agent=VLC
 https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_34" tvg-name="ムビドラTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png",ムビドラTV
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_73" tvg-name="手塚プロダクションTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png",手塚プロダクションTV
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_61" tvg-name="しまじろうチャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",しまじろうチャンネル
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_65" tvg-name="キッズ" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png",キッズ
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_104" tvg-name="that’s 70s" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/227_thats_70s.png",that’s 70s
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_105" tvg-name="that’s 80s" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/228_thats_80s.png",that’s 80s
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_106" tvg-name="that’s 90s00s" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/229_thats_90s00s.png",that’s 90s00s
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_107" tvg-name="that’s Rock" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/230_thats_rock.png",that’s Rock
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_74" tvg-name="麻雀" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/206_mahjong.png",麻雀
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_35" tvg-name="パチンコ・パチスロ" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/207_pachislo.png",パチンコ・パチスロ
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_113" tvg-name="ぷれいば！" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png",ぷれいば！
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_86" tvg-name="ワンニャンチャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png",ワンニャンチャンネル
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_114" tvg-name="九州・沖縄　街ネタ" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/188_kyushu.png",九州・沖縄　街ネタ
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_102" tvg-name="QVC" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/117_qvc.png",QVC
-#EXTVLCOPT:http-user-agent=VLC
 https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_112" tvg-name="GSTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_gstv.png",GSTV
-#EXTVLCOPT:http-user-agent=VLC
 https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_98" tvg-name="セクシーエンタメチャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png",セクシーエンタメチャンネル
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_40" tvg-name="刺激ストロング" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png",刺激ストロング
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_42" tvg-name="映画（年齢制限あり）" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",映画（年齢制限あり）
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 # === 地上デジタル ===
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="hdgd01" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="hdgd02" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="hdgd03" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/250px-Nippon_TV_logo_2014.svg.png",NTV
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="hdgd06" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/250px-TV_Asahi_Logo.svg.png",TV Asahi
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="hdgd04" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="hdgd07" tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/250px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="hdgd05" tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="hdgd08" tvg-name="TOKYO MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/250px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="gx06" tvg-name="NHK G Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="gx01" tvg-name="MBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/250px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="gx02" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/250px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="gx03" tvg-name="Kansai TV" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Ktv_logo.svg&w=200",Kansai TV
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="gx04" tvg-name="ytv" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Yomiuri_Telecasting_Corporation_Logo.svg&w=200",ytv
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="gx05" tvg-name="TV Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/250px-Tv_osaka_logo.svg.png",TV Osaka
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="gx07" tvg-name="SUN" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=SUN-TV_wordmark_2019.png&w=200",SUN
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07|user-agent=VLC
 
 # === BS放送 ===
 
 #EXTINF:-1 group-title="BS放送" tvg-id="rch_46" tvg-name="Fishing Vision" tvg-logo="https://pbs.twimg.com/profile_images/1047408166034493440/IUZkSWGa.jpg",Fishing Vision
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="bs11" tvg-name="NHK BS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="bs02" tvg-name="BS NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/250px-BS4_logo.svg.png",BS NTV
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="bs03" tvg-name="BS Asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="bs04" tvg-name="BS TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/250px-BS-TBS_2020.svg.png",BS TBS
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="bs05" tvg-name="BS TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/250px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="bs06" tvg-name="BS Fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/250px-BSFuji2008Symbol.svg.png",BS Fuji
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="bs31" tvg-name="JCOM BS" tvg-logo="https://pbs.twimg.com/profile_images/1967790003867762688/UMRPpTep_400x400.png",JCOM BS
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="bs01" tvg-name="NHK BS4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="CH.621" tvg-name="WOWOW Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Prime
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="CH.622" tvg-name="WOWOW Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Live
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="CH.623" tvg-name="WOWOW Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Cinema
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="CH.625" tvg-name="BS 10 Premium" tvg-logo="https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_bs10premium_short.png",BS 10 Premium
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08|user-agent=VLC
 
 # === CS放送 ===
 
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_49" tvg-name="Sky A" tvg-logo="https://pbs.twimg.com/profile_images/1503557885812690944/BNKFQ5m9_400x400.jpg",Sky A
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_51" tvg-name="Gaora Sports" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=GAORA_SPORTS_logo.svg&w=200",Gaora Sports
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_75" tvg-name="Golf Network" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/754.png",Golf Network
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_85" tvg-name="Kayo Pops" tvg-logo="https://portal.hikoichi-tv.com/wp-content/uploads/2019/12/kayoupopsLOGO.jpg",Kayo Pops
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_43" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/250px-History_Logo.svg.png",History
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_100" tvg-name="囲碁・将棋ライト" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/204_igoshogi.png",囲碁・将棋ライト (R)
-#EXTVLCOPT:http-user-agent=VLC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.572" tvg-name="TBS News" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/860.png",TBS News
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.566" tvg-name="CNNj" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/250px-CNN.svg.png",CNNj
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.565" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/250px-BBC_News_2019.svg.png",BBC News
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.603" tvg-name="JSport 1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.604" tvg-name="JSport 2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.606" tvg-name="JSport 3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.605" tvg-name="JSport 4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.608" tvg-name="Nittele G+" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/752.png",Nittele G+
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.688" tvg-name="Green Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/770.png",Green Channel
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.629" tvg-name="Toei Channel" tvg-logo="https://pbs.twimg.com/profile_images/1363766318298587139/TYkQgTdr_400x400.jpg",Toei Channel
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/PRPIC-20230705124343.%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB%E5%B0%82%E9%96%80%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%83%AD%E3%82%B4.jpg",Nihon Eiga Senmon
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.632" tvg-name="Movie Plus" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png",Movie Plus
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.628" tvg-name="Eisei Gekijo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-127-400x400.png",Eisei Gekijo
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.662" tvg-name="Jidaigeki Senmon" tvg-logo="https://i.imgur.com/8T72RIH.png",Jidaigeki Senmon
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.661" tvg-name="Home Drama Channel" tvg-logo="https://image-origin.hikaritv.net/tv/ch_logos/460.jpg",Home Drama Channel
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.664" tvg-name="Channel Ginga" tvg-logo="https://www.icn-catv.jp/images/channel_logo/CS/CS_ginga.png",Channel Ginga
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.654" tvg-name="LaLa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/LaLa_TV.png",LaLa TV
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.660" tvg-name="Family Gekijyo" tvg-logo="https://i.imgur.com/PCx6Qz3.png",Family Gekijyo
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.613" tvg-name="Fuji TV NEXT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV NEXT
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.670" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/250px-Animax.svg.png",Animax
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.668" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.669" tvg-name="Kids Staton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kids_Station.jpg/250px-Kids_Station.jpg",Kids Staton
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.620" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2002_Disney_Channel_full_logo.svg/250px-2002_Disney_Channel_full_logo.svg.png",Disney Channel
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.672" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2002_Disney_Channel_full_logo.svg/250px-2002_Disney_Channel_full_logo.svg.png",Disney Junior
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.640" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",MTV
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.639" tvg-name="Music Japan TV" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg",Music Japan TV
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="bs26" tvg-name="Space Shower TV (HD)" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_73.png",Space Shower TV (HD)
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="Takarazuka Sky Stage" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/38/takarazuka-skystage_logo.jpg",Takarazuka Sky Stage
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.675" tvg-name="National Geographic Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/National_Geographic_Logo.svg/250px-National_Geographic_Logo.svg.png",National Geographic Japan
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.676" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/250px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.677" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/250px-Animal_Planet_logo.svg.png",Animal Planet
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.544" tvg-name="Tabi Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/830.png",Tabi Channel
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.659" tvg-name="Mondo TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/554.png",Mondo TV
-#EXTVLCOPT:http-user-agent=VLC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_samri" tvg-name="時代劇TV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/samri/channel_logo",時代劇TV (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_comdy" tvg-name="LeminoTV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo",LeminoTV (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo",エンタメ・アジア (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_busns" tvg-name="ビジネス・プレミアム (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo",ビジネス・プレミアム (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_entns" tvg-name="エンタメニュース (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo",エンタメニュース (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo",丸ごと九州 (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_jpthp" tvg-name="ぴあ落語ざんまい (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo",ぴあ落語ざんまい (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_snyon" tvg-name="FASHIONPLUS (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo",FASHIONPLUS (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_goshogi" tvg-name="囲碁・将棋ライト (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/goshogi/channel_logo",囲碁・将棋ライト (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_hokkaido" tvg-name="丸ごと北海道 (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo",丸ごと北海道 (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo",東海ロキポ (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_pett1" tvg-name="ペットTV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo",ペットTV (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo",キャンプ・アウトドア (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo",今日のごはんなに? (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo",観るたび (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo",GOLF LIFE (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/kids/channel_logo",アニマックス FREE (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo",韓流チャンネル (FAST)
-#EXTVLCOPT:http-user-agent=VLC
 https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/181.png",NHK World-Japan
-#EXTVLCOPT:http-user-agent=VLC
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8|user-agent=VLC
