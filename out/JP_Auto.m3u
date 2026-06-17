@@ -72,7 +72,7 @@ http://akariko.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls|user-
 #EXTINF:-1 group-title="News" tvg-id="NHKワールド-JAPAN_jp" tvg-name="NHK World-Japan" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/181.png",NHK World-Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="News" tvg-id="rch_45" tvg-name="Weather News" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Weathernews_logo.svg&w=200",Weather News
-http://akariko.netgenx.site/stream/jp/weather_news/stream-output.m3u8?mode=hls|user-agent=VLC
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8|user-agent=VLC
 
 # === Sports ===
 #EXTINF:-1 group-title="Sports" tvg-id="rch_89" tvg-name="TOP BARÇA" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/119_top-barca.png",TOP BARÇA
@@ -179,8 +179,6 @@ http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls|user-a
 # === Kids & Anime ===
 #EXTINF:-1 group-title="Kids & Anime" tvg-id="rch_73" tvg-name="手塚プロダクションTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png",手塚プロダクションTV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
-#EXTINF:-1 group-title="Kids & Anime" tvg-id="" tvg-name="しまじろうチャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",しまじろうチャンネル
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Kids & Anime" tvg-id="rch_65" tvg-name="キッズ" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png",キッズ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Kids & Anime" tvg-id="アニマックス_jp" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/250px-Animax.svg.png",Animax
@@ -199,8 +197,6 @@ http://akariko.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls|
 https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8|user-agent=VLC
 
 # === Music ===
-#EXTINF:-1 group-title="Music" tvg-id="rch_94" tvg-name="NEW KPOP" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/156_newk-pop.png",NEW KPOP
-https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165|user-agent=VLC
 #EXTINF:-1 group-title="Music" tvg-id="rch_104" tvg-name="that’s 70s" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/227_thats_70s.png",that’s 70s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Music" tvg-id="rch_105" tvg-name="that’s 80s" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/228_thats_80s.png",that’s 80s
