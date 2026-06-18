@@ -186,7 +186,7 @@ http://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls|user-agen
 #EXTINF:-1 group-title="Kids & Anime" tvg-id="カートゥーン-ネットワーク_jp" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Kids & Anime" tvg-id="キッズステーション_jp" tvg-name="Kids Station" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kids_Station.jpg/250px-Kids_Station.jpg",Kids Station
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07|user-agent=VLC
+http://akariko.netgenx.site/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Kids & Anime" tvg-id="ディズニー・チャンネル_jp" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2002_Disney_Channel_full_logo.svg/250px-2002_Disney_Channel_full_logo.svg.png",Disney Channel
 http://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Kids & Anime" tvg-id="ディズニージュニア_jp" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2002_Disney_Channel_full_logo.svg/250px-2002_Disney_Channel_full_logo.svg.png",Disney Junior
