@@ -396,7 +396,7 @@ http://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mo
 http://akariko.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.676" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/250px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel
-http://58.82.168.138:5002/cs08.m3u8?token=guoziyun&gid=cs08&channel=zhongying|user-agent=VLC
+http://akariko.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.677" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/250px-Animal_Planet_logo.svg.png",Animal Planet
 http://akariko.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls|user-agent=VLC
@@ -484,5 +484,3 @@ https://live.livingjtv.live/jp86/playlist.m3u8?token=M7VMdfn2WH|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="ミュージック・エア_jp" tvg-name="Music Air" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs324.gif",Music Air
 https://live.livingjtv.live/jp79/playlist.m3u8?token=M7VMdfn2WH|user-agent=VLC
-#EXTINF:-1 group-title="CS放送" tvg-id="ショップチャンネル_jp" tvg-name="ショップチャンネル" tvg-logo="https://i.imgur.com/3K36JEA.jpg",ショップチャンネル
-https://stream3.shopch.jp/HLS/master.m3u8|user-agent=VLC
