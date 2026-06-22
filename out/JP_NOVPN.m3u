@@ -111,7 +111,7 @@ http://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls|user-age
 http://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="BSよしもと_jp" tvg-name="BS Yoshimoto" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_yoshimoto.png",BS Yoshimoto
-https://live.livingtv.live/jp38/playlist.m3u8?token=M7VMdfn2WH|user-agent=VLC
+https://akariko.netgenx.site/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls|user-agent=VLC
 
 # === BS 4K ===
 

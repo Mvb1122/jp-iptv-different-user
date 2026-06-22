@@ -119,7 +119,7 @@ http://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls|use
 http://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="BSよしもと_jp" tvg-name="BS Yoshimoto" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_yoshimoto.png",BS Yoshimoto
-https://live.livingtv.live/jp38/playlist.m3u8?token=M7VMdfn2WH|user-agent=VLC
+https://akariko.netgenx.site/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls|user-agent=VLC
 
 # === CS放送 ===
 
