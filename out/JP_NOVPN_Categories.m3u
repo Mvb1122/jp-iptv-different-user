@@ -100,9 +100,6 @@ http://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls|user-a
 #EXTINF:-1 group-title="BS放送" tvg-id="bs01" tvg-name="NHK BS4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs4k.png",NHK BS4K
 http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls|user-agent=VLC
 
-#EXTINF:-1 group-title="BS放送" tvg-id="BSTVTokyo4K.jp" tvg-name="BS TV Tokyo 4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tv_tokyo_4k.png",BS TV Tokyo 4K
-http://akariko.netgenx.site/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls|user-agent=VLC
-
 #EXTINF:-1 group-title="BS放送" tvg-id="CH.621" tvg-name="WOWOW Prime" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_prime.png",WOWOW Prime
 http://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls|user-agent=VLC
 
