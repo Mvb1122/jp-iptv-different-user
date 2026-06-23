@@ -84,7 +84,7 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rak
 #EXTINF:-1 group-title="Sports" tvg-id="rch_64" tvg-name="FUEL TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png",FUEL TV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="J-SPORTS-1_jp" tvg-name="JSport 1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
-http://58.82.168.138:5002/bs18.m3u8?token=guoziyun&gid=bs18&channel=zhongying|user-agent=VLC
+http://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="J-SPORTS-2_jp" tvg-name="JSport 2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
 http://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="J-SPORTS-3_jp" tvg-name="JSport 3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
@@ -100,13 +100,13 @@ http://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mod
 #EXTINF:-1 group-title="Sports" tvg-id="スカイA_jp" tvg-name="Sky A" tvg-logo="https://pbs.twimg.com/profile_images/1503557885812690944/BNKFQ5m9_400x400.jpg",Sky A
 http://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="GAORA-SPORTS_jp" tvg-name="Gaora Sports" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=GAORA_SPORTS_logo.svg&w=200",Gaora Sports
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gaorahlscmaf-rakutenjp/playlist.m3u8|user-agent=VLC
+http://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="ゴルフネットワーク_jp" tvg-name="Golf Network" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/754.png",Golf Network
 http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo",GOLF LIFE
 https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="グリーンチャンネル_jp" tvg-name="Green Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/770.png",Green Channel
-http://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls|user-agent=VLC
+http://58.82.168.138:5002/bs14.m3u8?token=guoziyun&gid=bs14&channel=zhongying|user-agent=VLC
 
 # === Movies & Drama ===
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="rch_34" tvg-name="ムビドラTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png",ムビドラTV
@@ -120,9 +120,9 @@ http://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls|
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="WOWOWプライム_jp" tvg-name="WOWOW Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Prime
 http://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="WOWOWライブ_jp" tvg-name="WOWOW Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Live
-http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying|user-agent=VLC
+http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="WOWOWシネマ_jp" tvg-name="WOWOW Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Cinema
-http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=bs07&channel=zhongying|user-agent=VLC
+http://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="WOWOWプラス_jp" tvg-name="WOWOW Plus" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=WOWOW_logo.svg&w=200",WOWOW Plus
 http://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="東映チャンネル_jp" tvg-name="Toei Channel" tvg-logo="https://pbs.twimg.com/profile_images/1363766318298587139/TYkQgTdr_400x400.jpg",Toei Channel
@@ -134,11 +134,11 @@ http://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls|use
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="ムービープラス_jp" tvg-name="Movie Plus" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png",Movie Plus
 http://akariko.netgenx.site/stream/jp/movie_plus/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="衛星劇場_jp" tvg-name="Eisei Gekijo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-127-400x400.png",Eisei Gekijo
-http://58.82.168.138:5002/cs22.m3u8?token=guoziyun&gid=cs22&channel=zhongying|user-agent=VLC
+http://akariko.netgenx.site/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="時代劇専門チャンネル_jp" tvg-name="Jidaigeki Senmon" tvg-logo="https://i.imgur.com/8T72RIH.png",Jidaigeki Senmon
 http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&gid=cs04&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="ホームドラマチャンネル_jp" tvg-name="Home Drama Channel" tvg-logo="https://image-origin.hikaritv.net/tv/ch_logos/460.jpg",Home Drama Channel
-http://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls|user-agent=VLC
+http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&gid=cs05&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="チャンネル銀河_jp" tvg-name="Channel Ginga" tvg-logo="https://www.icn-catv.jp/images/channel_logo/CS/CS_ginga.png",Channel Ginga
 http://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="LaLa-TV_jp" tvg-name="LaLa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/LaLa_TV.png",LaLa TV
@@ -266,9 +266,9 @@ http://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls|user-age
 #EXTINF:-1 group-title="Entertainment" tvg-id="J-COM-BS_jp" tvg-name="JCOM BS" tvg-logo="https://pbs.twimg.com/profile_images/1967790003867762688/UMRPpTep_400x400.png",JCOM BS
 http://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Entertainment" tvg-id="NHK・BS_jp" tvg-name="NHK BS4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
-http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls|user-agent=VLC
+http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Entertainment" tvg-id="NHK・BS_jp" tvg-name="NHK BS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-http://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls|user-agent=VLC
+http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Entertainment" tvg-id="KBS-WORLD_jp" tvg-name="KBS World" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/552.png",KBS World
 http://akariko.netgenx.site/stream/jp/kbs_world/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-name="KNTV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/570.png",KNTV
