@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://jp-epg-26f0ce.gitlab.io/guide.xml.gz" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Local" tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-https://waltuh.cyou/jp/Tokyo/nhk_g_tokyo/index.m3u8|user-agent=VLC
+http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-https://waltuh.cyou/jp/Tokyo/nhk_e_tokyo/index.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gd02.m3u8?token=guoziyun&gid=gd02&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/250px-Nippon_TV_logo_2014.svg.png",NTV
 https://waltuh.cyou/jp/Tokyo/ntv/index.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/250px-TV_Asahi_Logo.svg.png",TV Asahi
@@ -111,7 +111,7 @@ http://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls|user-age
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="BS10プレミアム_jp" tvg-name="BS 10 Premium" tvg-logo="https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_bs10premium_short.png",BS 10 Premium
 http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=bs08&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="WOWOWプライム_jp" tvg-name="WOWOW Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Prime
-https://waltuh.cyou/jp/BS/wowow_prime/index.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=bs12&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="WOWOWライブ_jp" tvg-name="WOWOW Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Live
 http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Movies & Drama" tvg-id="WOWOWシネマ_jp" tvg-name="WOWOW Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Cinema
@@ -179,7 +179,7 @@ https://waltuh.cyou/jp/CS/cartoon_network/index.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Kids & Anime" tvg-id="キッズステーション_jp" tvg-name="Kids Station" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kids_Station.jpg/250px-Kids_Station.jpg",Kids Station
 http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Kids & Anime" tvg-id="ディズニー・チャンネル_jp" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2002_Disney_Channel_full_logo.svg/250px-2002_Disney_Channel_full_logo.svg.png",Disney Channel
-https://waltuh.cyou/jp/BS/disney_channel/index.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Kids & Anime" tvg-id="ディズニージュニア_jp" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2002_Disney_Channel_full_logo.svg/250px-2002_Disney_Channel_full_logo.svg.png",Disney Junior
 http://58.82.168.138:5002/cs23.m3u8?token=guoziyun&gid=cs23&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Kids & Anime" tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/kids/channel_logo",アニマックス FREE
