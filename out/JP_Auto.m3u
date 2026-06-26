@@ -17,7 +17,7 @@ http://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls|user-a
 #EXTINF:-1 group-title="Local" tvg-id="TOKYO・MX_jp" tvg-name="TOKYO MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/250px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
 http://akariko.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="TOKYO・MX2_jp" tvg-name="TOKYO MX2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/250px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2 (HD 720p)
-http://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls|user-agent=VLC
+https://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="NHK大阪・総合_jp" tvg-name="NHK G Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka
 http://akariko.netgenx.site/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="毎日テレビ_jp" tvg-name="MBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/250px-Mainichi_Broadcasting_System_logo.svg.png",MBS
