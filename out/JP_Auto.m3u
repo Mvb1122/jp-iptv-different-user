@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://jp-epg-26f0ce.gitlab.io/guide.xml.gz" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Local" tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-https://waltuh.cyou/jp/Tokyo/nhk_g_tokyo/index.m3u8|user-agent=VLC
+http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
 https://waltuh.cyou/jp/Tokyo/nhk_e_tokyo/index.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/250px-Nippon_TV_logo_2014.svg.png",NTV
@@ -21,15 +21,15 @@ http://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls|user
 #EXTINF:-1 group-title="Local" tvg-id="NHK大阪・総合_jp" tvg-name="NHK G Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka
 http://58.82.168.138:5002/gx06.m3u8?token=guoziyun&gid=gx06&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="毎日テレビ_jp" tvg-name="MBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/250px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-https://waltuh.cyou/jp/Kansai/mbs/index.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="ABCテレビ_jp" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/250px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
 http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="関西テレビ_jp" tvg-name="Kansai TV" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Ktv_logo.svg&w=200",Kansai TV
 http://58.82.168.138:5002/gx03.m3u8?token=guoziyun&gid=gx03&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="読売テレビ_jp" tvg-name="ytv" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Yomiuri_Telecasting_Corporation_Logo.svg&w=200",ytv
-https://waltuh.cyou/jp/Kansai/yomiuri_tv/index.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx04.m3u8?token=guoziyun&gid=gx04&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="テレビ大阪_jp" tvg-name="TV Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/250px-Tv_osaka_logo.svg.png",TV Osaka
-https://waltuh.cyou/jp/Kansai/tv_osaka/index.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx05.m3u8?token=guoziyun&gid=gx05&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="サンテレビ_jp" tvg-name="SUN" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=SUN-TV_wordmark_2019.png&w=200",SUN
 http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Local" tvg-id="KBS京都_jp" tvg-name="KBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
