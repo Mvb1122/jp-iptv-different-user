@@ -26,6 +26,12 @@ http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongyin
 #EXTINF:-1 tvg-id="hdgd08" tvg-name="TOKYO MX1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx1.png",TOKYO MX1
 http://58.82.168.138:5002/hdgd08.m3u8?token=guoziyun&gid=hdgd08&channel=zhongying|user-agent=VLC
 
+#EXTINF:-1 tvg-id="jp2" tvg-name="NHK G (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_sub_ch.png",NHK G (Sub Ch.)
+http://haru.charandom.blog/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="jp10" tvg-name="TOKYO MX2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx2.png",TOKYO MX2 (HD 720p)
+http://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls|user-agent=VLC
+
 # === Kansai Terrestrial ===
 
 #EXTINF:-1 tvg-id="gx06" tvg-name="NHK G Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_osaka.png",NHK G Osaka
@@ -49,7 +55,13 @@ http://58.82.168.138:5002/gx05.m3u8?token=guoziyun&gid=gx05&channel=zhongying|us
 #EXTINF:-1 tvg-id="gx07" tvg-name="SUN" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sun.png",SUN
 http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying|user-agent=VLC
 
+#EXTINF:-1 tvg-id="jp16" tvg-name="KBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs.png",KBS
+http://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls|user-agent=VLC
+
 # === News ===
+
+#EXTINF:-1 tvg-id="CH.571" tvg-name="NTV News24" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv_news24.png",NTV News24
+http://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.572" tvg-name="TBS News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_news.png",TBS News
 http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=cs11&channel=zhongying|user-agent=VLC
@@ -68,6 +80,9 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8|user-agent=VLC
 #EXTINF:-1 tvg-id="bs11" tvg-name="NHK BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs.png",NHK BS
 http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying|user-agent=VLC
 
+#EXTINF:-1 tvg-id="jp20" tvg-name="NHK BS (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs_sub_ch.png",NHK BS (Sub Ch.)
+http://haru.charandom.blog/stream/jp/nhk_bs_%28subch%29/stream-output.m3u8?mode=hls|user-agent=VLC
+
 #EXTINF:-1 tvg-id="bs02" tvg-name="BS NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv.png",BS NTV
 http://58.82.168.138:5002/bs02.m3u8?token=guoziyun&gid=bs02&channel=zhongying|user-agent=VLC
 
@@ -83,8 +98,20 @@ http://58.82.168.138:5002/bs05.m3u8?token=guoziyun&gid=bs05&channel=zhongying|us
 #EXTINF:-1 tvg-id="bs06" tvg-name="BS Fuji" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_fuji.png",BS Fuji
 http://58.82.168.138:5002/bs06.m3u8?token=guoziyun&gid=bs06&channel=zhongying|user-agent=VLC
 
+#EXTINF:-1 tvg-id="jp28" tvg-name="BS11" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs11.png",BS11
+http://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="bs12" tvg-name="BS 12" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_12.png",BS 12
+http://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="jp34" tvg-name="BS 10" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10.png",BS 10
+http://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls|user-agent=VLC
+
 #EXTINF:-1 tvg-id="bs31" tvg-name="JCOM BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jcom_bs.png",JCOM BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31|user-agent=VLC
+
+#EXTINF:-1 tvg-id="BSよしもと_jp" tvg-name="BS Yoshimoto" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_yoshimoto.png",BS Yoshimoto
+https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls|user-agent=VLC
 
 # === BS 4K ===
 
@@ -101,6 +128,9 @@ http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying|us
 
 #EXTINF:-1 tvg-id="CH.623" tvg-name="WOWOW Cinema" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_cinema.png",WOWOW Cinema
 http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=bs07&channel=zhongying|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.630" tvg-name="WOWOW Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_plus.png",WOWOW Plus
+http://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.625" tvg-name="BS 10 Premium" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10_premium.png",BS 10 Premium
 http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=bs08&channel=zhongying|user-agent=VLC
@@ -131,8 +161,14 @@ http://58.82.168.138:5002/cs02.m3u8?token=guoziyun&gid=cs02&channel=zhongying|us
 #EXTINF:-1 tvg-id="bs26" tvg-name="Space Shower TV (HD)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/space_shower_tv.png",Space Shower TV (HD)
 http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying|user-agent=VLC
 
+#EXTINF:-1 tvg-id="CH.580" tvg-name="Sport Live Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sport_live_plus.png",Sport Live Plus
+http://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls|user-agent=VLC
+
 #EXTINF:-1 tvg-id="rch_75" tvg-name="Golf Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_network.png",Golf Network
 http://58.82.168.138:5002/cs03.m3u8?token=guoziyun&gid=cs03&channel=zhongying|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.600" tvg-name="Fighting TV Samurai" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fighting_tv_samurai.png",Fighting TV Samurai
+http://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.688" tvg-name="Green Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/green_channel.png",Green Channel
 http://58.82.168.138:5002/bs14.m3u8?token=guoziyun&gid=bs14&channel=zhongying|user-agent=VLC
@@ -145,11 +181,17 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27|user-age
 #EXTINF:-1 tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
 http://58.82.168.138:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying|user-agent=VLC
 
+#EXTINF:-1 tvg-id="CH.631" tvg-name="The Cinema" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/the_cinema.png",The Cinema
+http://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls|user-agent=VLC
+
 #EXTINF:-1 tvg-id="CH.632" tvg-name="Movie Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/movie_plus.png",Movie Plus
 http://58.82.168.138:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.628" tvg-name="Eisei Gekijo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/eisei_gekijo.png",Eisei Gekijo
 http://58.82.168.138:5002/cs22.m3u8?token=guoziyun&gid=cs22&channel=zhongying|user-agent=VLC
+
+#EXTINF:-1 tvg-id="rch_59" tvg-name="Neco Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/neco_channel.png",Neco Channel
+http://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.662" tvg-name="Jidaigeki Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jidaigeki_senmon.png",Jidaigeki Senmon
 http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&gid=cs04&channel=zhongying|user-agent=VLC
@@ -166,16 +208,49 @@ http://58.82.168.138:5002/cs19.m3u8?token=guoziyun&gid=cs19&channel=zhongying|us
 #EXTINF:-1 tvg-id="CH.660" tvg-name="Family Gekijyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/family_gekijyo.png",Family Gekijyo
 http://58.82.168.138:5002/cs20.m3u8?token=guoziyun&gid=cs20&channel=zhongying|user-agent=VLC
 
+#EXTINF:-1 tvg-id="CH.647" tvg-name="Super Drama TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/super_drama_tv.png",Super Drama TV
+http://haru.charandom.blog/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.649" tvg-name="Mystery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mystery_channel.png",Mystery Channel
+http://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.650" tvg-name="Action Channel (AXN)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/action_channel_axn.png",Action Channel (AXN)
+http://haru.charandom.blog/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.616" tvg-name="TBS Channel 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_channel_1.png",TBS Channel 1
+http://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.617" tvg-name="TBS Channel 2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_channel_2.png",TBS Channel 2
+http://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.611" tvg-name="TV Asahi Channel 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi_channel_1.png",TV Asahi Channel 1
+http://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.612" tvg-name="TV Asahi Channel 2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi_channel_2.png",TV Asahi Channel 2
+http://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.614" tvg-name="Fuji TV ONE" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_one.png",Fuji TV ONE
+http://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.615" tvg-name="Fuji TV TWO" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_two.png",Fuji TV TWO
+http://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls|user-agent=VLC
+
 #EXTINF:-1 tvg-id="CH.613" tvg-name="Fuji TV NEXT" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_next.png",Fuji TV NEXT
 http://58.82.168.138:5002/cs26.m3u8?token=guoziyun&gid=cs26&channel=zhongying|user-agent=VLC
 
+#EXTINF:-1 tvg-id="CH.619" tvg-name="Nittele Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nittele_plus.png",Nittele Plus
+http://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls|user-agent=VLC
+
 #EXTINF:-1 tvg-id="Dlife(ディーライフ)_jp" tvg-name="Dlife" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/dlife.png",Dlife
-https://43.100.9.67/api/streams/live/cs312/1080p/mpegts|user-agent=VLC
+http://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls|user-agent=VLC
 
 # === Anime & Kids ===
 
 #EXTINF:-1 tvg-id="CH.670" tvg-name="Animax" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animax.png",Animax
 http://58.82.168.138:5002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.667" tvg-name="AT-X" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/at_x.png",AT-X
+http://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.668" tvg-name="Cartoon Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cartoon_network.png",Cartoon Network
 http://58.82.168.138:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying|user-agent=VLC
@@ -193,6 +268,9 @@ http://58.82.168.138:5002/cs23.m3u8?token=guoziyun&gid=cs23&channel=zhongying|us
 
 #EXTINF:-1 tvg-id="CH.640" tvg-name="MTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mtv.png",MTV
 http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.641" tvg-name="Music ON TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_on_tv.png",Music ON TV
+http://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.639" tvg-name="Music Japan TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_japan_tv.png",Music Japan TV
 http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying|user-agent=VLC
@@ -223,10 +301,16 @@ http://58.82.168.138:5002/cs09.m3u8?token=guoziyun&gid=cs09&channel=zhongying|us
 #EXTINF:-1 tvg-id="CH.544" tvg-name="Tabi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tabi_channel.png",Tabi Channel
 http://58.82.168.138:5002/cs12.m3u8?token=guoziyun&gid=cs12&channel=zhongying|user-agent=VLC
 
+#EXTINF:-1 tvg-id="rch_30" tvg-name="Tetsudo Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tetsudo_channel.png",Tetsudo Channel
+http://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls|user-agent=VLC
+
 #EXTINF:-1 tvg-id="rch_46" tvg-name="Fishing Vision" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fishing_vision.png",Fishing Vision
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25|user-agent=VLC
 
 # === Variety & Hobby ===
+
+#EXTINF:-1 tvg-id="rch_36" tvg-name="Shogi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/shogi_channel.png",Shogi Channel
+http://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.659" tvg-name="Mondo TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mondo_tv.png",Mondo TV
 http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=cs21&channel=zhongying|user-agent=VLC
@@ -237,7 +321,13 @@ https://live.livingjtv.live/jp86/playlist.m3u8?token=M7VMdfn2WH|user-agent=VLC
 # === Korean & Asian ===
 
 #EXTINF:-1 tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs_world.png",KBS World
-https://liveh12.vtvprime.vn/hls/KBS/03.m3u8|user-agent=VLC
+http://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.657" tvg-name="KNTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kntv.png",KNTV
+http://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="CH.658" tvg-name="Mnet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mnet.png",Mnet
+http://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls|user-agent=VLC
 
 # === Shopping ===
 
@@ -247,8 +337,13 @@ https://stream3.shopch.jp/HLS/master.m3u8|user-agent=VLC
 # === Weather ===
 
 #EXTINF:-1 tvg-id="rch_45" tvg-name="Weather News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/weather_news.png",Weather News
-https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8|user-agent=VLC
+http://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls|user-agent=VLC
 
 # === Adult ===
 
+#EXTINF:-1 tvg-id="CH.635" tvg-name="V Paradise" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/v_paradise.png",V Paradise
+http://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls|user-agent=VLC
+
+#EXTINF:-1 tvg-id="rch_41" tvg-name="Pigoo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/pigoo.png",Pigoo
+http://haru.charandom.blog/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls|user-agent=VLC
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
