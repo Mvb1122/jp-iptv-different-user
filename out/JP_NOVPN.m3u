@@ -208,9 +208,6 @@ http://58.82.168.138:5002/cs19.m3u8?token=guoziyun&gid=cs19&channel=zhongying|us
 #EXTINF:-1 tvg-id="CH.660" tvg-name="Family Gekijyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/family_gekijyo.png",Family Gekijyo
 http://58.82.168.138:5002/cs20.m3u8?token=guoziyun&gid=cs20&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 tvg-id="CH.647" tvg-name="Super Drama TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/super_drama_tv.png",Super Drama TV
-http://haru.charandom.blog/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls|user-agent=VLC
-
 #EXTINF:-1 tvg-id="CH.649" tvg-name="Mystery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mystery_channel.png",Mystery Channel
 http://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls|user-agent=VLC
 
