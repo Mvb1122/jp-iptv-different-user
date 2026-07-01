@@ -230,7 +230,7 @@ https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8|user-a
 # === Movies & Drama ===
 
 #EXTINF:-1 tvg-id="CH.629" tvg-name="Toei Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png",Toei Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs27|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
 http://58.82.168.138:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying|user-agent=VLC
@@ -325,7 +325,7 @@ http://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls|user-agent
 http://58.82.168.138:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.669" tvg-name="Kids Staton" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kids_staton.png",Kids Staton
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07|user-agent=VLC
+http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.620" tvg-name="Disney Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_channel.png",Disney Channel
 http://58.82.168.138:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying|user-agent=VLC

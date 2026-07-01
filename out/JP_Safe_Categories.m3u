@@ -282,7 +282,7 @@ http://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode
 http://58.82.168.138:5002/bs14.m3u8?token=guoziyun&gid=bs14&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.629" tvg-name="Toei Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png",Toei Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs27|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
 http://58.82.168.138:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying|user-agent=VLC
@@ -354,7 +354,7 @@ http://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls|user-agent
 http://58.82.168.138:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.669" tvg-name="Kids Staton" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kids_staton.png",Kids Staton
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07|user-agent=VLC
+http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.620" tvg-name="Disney Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_channel.png",Disney Channel
 http://58.82.168.138:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying|user-agent=VLC
