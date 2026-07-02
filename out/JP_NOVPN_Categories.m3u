@@ -59,7 +59,7 @@ http://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls|user-agent=
 # === BS放送 ===
 
 #EXTINF:-1 group-title="BS放送" tvg-id="rch_46" tvg-name="Fishing Vision" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fishing_vision.png",Fishing Vision
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs25|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="rch_45" tvg-name="Weather News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/weather_news.png",Weather News
 http://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls|user-agent=VLC
@@ -95,7 +95,7 @@ http://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls|user-agen
 http://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="bs31" tvg-name="JCOM BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jcom_bs.png",JCOM BS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs31|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="bs01" tvg-name="NHK BS4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs4k.png",NHK BS4K
 http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying|user-agent=VLC
@@ -205,7 +205,7 @@ http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&gid=cs04&channel=zhongying|us
 http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&gid=cs05&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.664" tvg-name="Channel Ginga" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/channel_ginga.png",Channel Ginga
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs29|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.654" tvg-name="LaLa TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/lala_tv.png",LaLa TV
 http://58.82.168.138:5002/cs19.m3u8?token=guoziyun&gid=cs19&channel=zhongying|user-agent=VLC
@@ -274,7 +274,7 @@ http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying|us
 http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="Takarazuka Sky Stage" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/takarazuka_sky_stage.png",Takarazuka Sky Stage
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs28|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.675" tvg-name="National Geographic Japan" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/national_geographic_japan.png",National Geographic Japan
 http://58.82.168.138:5002/cs10.m3u8?token=guoziyun&gid=cs10&channel=zhongying|user-agent=VLC
