@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="General" tvg-id="ABCテレビ_jp" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/250px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
 https://naori-test.netgenx.site/pxx.php?shk_cid=gx02#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="CH.650" tvg-name="Action Channel (AXN)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/action_channel_axn.png",Action Channel (AXN)
-https://haru.charandom.blog/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls|user-agent=VLC
+https://haru.charandom.blog/stream/jp/action_channel_(axn)/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="CH.677" tvg-name="Animal Planet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animal_planet.png",Animal Planet
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs24#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="bs10.jp" tvg-name="BS 10" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10.png",BS 10
