@@ -2,31 +2,31 @@
 
 # === Tokyo Terrestrial ===
 
-#EXTINF:-1 tvg-id="hdgd01" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
+#EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
 http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="jp2" tvg-name="NHK G (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_sub_ch.png",NHK G (Sub Ch.)
 http://haru.charandom.blog/stream/jp/nhk_g_(subch)/stream-output.m3u8?mode=hls|user-agent=VLC
 
-#EXTINF:-1 tvg-id="hdgd02" tvg-name="NHK E" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png",NHK E
+#EXTINF:-1 tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png",NHK E
 http://58.82.168.138:5002/hdgd02.m3u8?token=guoziyun&gid=hdgd02&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 tvg-id="hdgd03" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
+#EXTINF:-1 tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
 http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 tvg-id="hdgd06" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
+#EXTINF:-1 tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
 http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 tvg-id="hdgd04" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png",TBS
+#EXTINF:-1 tvg-id="TBS_jp" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png",TBS
 http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 tvg-id="hdgd07" tvg-name="TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png",TV Tokyo
+#EXTINF:-1 tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png",TV Tokyo
 http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=hdgd07&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 tvg-id="hdgd05" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
+#EXTINF:-1 tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
 http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 tvg-id="hdgd08" tvg-name="TOKYO MX1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx1.png",TOKYO MX1
+#EXTINF:-1 tvg-id="TOKYO・MX_jp" tvg-name="TOKYO MX1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx1.png",TOKYO MX1
 http://58.82.168.138:5002/hdgd08.m3u8?token=guoziyun&gid=hdgd08&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="jp10" tvg-name="TOKYO MX2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx2.png",TOKYO MX2 (HD 720p)
@@ -43,7 +43,7 @@ http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying|us
 #EXTINF:-1 tvg-id="gx01" tvg-name="MBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mbs.png",MBS
 http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 tvg-id="jp16" tvg-name="KBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs.png",KBS
+#EXTINF:-1 tvg-id="KBS京都_jp" tvg-name="KBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs.png",KBS
 http://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="gx02" tvg-name="ABC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/abc.png",ABC
@@ -119,7 +119,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8|user-agent=VLC
 #EXTINF:-1 tvg-id="bs11" tvg-name="NHK BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs.png",NHK BS
 http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 tvg-id="jp20" tvg-name="NHK BS (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs_sub_ch.png",NHK BS (Sub Ch.)
+#EXTINF:-1 tvg-id="NHK・BS_jp" tvg-name="NHK BS (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs_sub_ch.png",NHK BS (Sub Ch.)
 http://haru.charandom.blog/stream/jp/nhk_bs_(subch)/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="bs02" tvg-name="BS NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv.png",BS NTV
@@ -137,10 +137,10 @@ http://58.82.168.138:5002/bs05.m3u8?token=guoziyun&gid=bs05&channel=zhongying|us
 #EXTINF:-1 tvg-id="bs06" tvg-name="BS Fuji" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_fuji.png",BS Fuji
 http://58.82.168.138:5002/bs06.m3u8?token=guoziyun&gid=bs06&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 tvg-id="jp34" tvg-name="BS 10" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10.png",BS 10
+#EXTINF:-1 tvg-id="BS10_jp" tvg-name="BS 10" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10.png",BS 10
 http://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls|user-agent=VLC
 
-#EXTINF:-1 tvg-id="jp28" tvg-name="BS11" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs11.png",BS11
+#EXTINF:-1 tvg-id="BS11-イレブン_jp" tvg-name="BS11" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs11.png",BS11
 http://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="bs12" tvg-name="BS 12" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_12.png",BS 12
