@@ -39,7 +39,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs22#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="ファミリー劇場_jp" tvg-name="Family Gekijyo" tvg-logo="https://i.imgur.com/PCx6Qz3.png",Family Gekijyo
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd05#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="フジテレビNEXT_jp" tvg-name="Fuji TV NEXT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV NEXT
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs26#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="fujitvone.jp" tvg-name="Fuji TV ONE" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_70.png",Fuji TV ONE
@@ -161,7 +161,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs13#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Music" tvg-id="CH.658" tvg-name="Mnet" tvg-logo="https://xuanzi-storage.netgenx.site/",Mnet
 https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Music" tvg-id="CH.640" tvg-name="MTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mtv.png",MTV
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs18#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Music" tvg-id="jp87" tvg-name="Music Air" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_76.png",Music Air
 https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Music" tvg-id="ミュージック・ジャパンTV_jp" tvg-name="Music Japan TV" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg",Music Japan TV
