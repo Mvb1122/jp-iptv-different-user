@@ -81,11 +81,11 @@ https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls|user-a
 #EXTINF:-1 group-title="General" tvg-id="NHK・BS_jp" tvg-name="NHK BS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="NHK・BSP_jp" tvg-name="NHK BS4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd02#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd01#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="NHK大阪・総合_jp" tvg-name="NHK G Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka
 https://naori-test.netgenx.site/pxx.php?shk_cid=gx06#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="日本映画専門チャンネル_jp" tvg-name="Nihon Eiga Senmon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/PRPIC-20230705124343.%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB%E5%B0%82%E9%96%80%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%83%AD%E3%82%B4.jpg",Nihon Eiga Senmon
@@ -119,7 +119,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="TOKYO・MX2_jp" tvg-name="TOKYO MX2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/250px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
 https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/250px-TV_Asahi_Logo.svg.png",TV Asahi
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06#.m3u8|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd06#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレ朝チャンネル1_jp" tvg-name="TV Asahi Channel 1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_66.png",TV Asahi Channel 1
 https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレ朝チャンネル2_jp" tvg-name="TV Asahi Channel 2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_67.png",TV Asahi Channel 2
@@ -207,7 +207,7 @@ https://stream3.shopch.jp/HLS/master.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="FIGHTING-TV-サムライ_jp" tvg-name="Fighting TV Samurai" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/761.png",Fighting TV Samurai
 https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="釣りビジョン_jp" tvg-name="Fishing Vision" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fishing_vision.png",Fishing Vision
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs25#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs25.m3u8?token=guoziyun&gid=gd03&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="GAORA-SPORTS_jp" tvg-name="Gaora Sports" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=GAORA_SPORTS_logo.svg&w=200",Gaora Sports
 http://58.82.168.138:5002/cs17.m3u8?token=guoziyun&gid=cs17&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="ゴルフネットワーク_jp" tvg-name="Golf Network" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/754.png",Golf Network
