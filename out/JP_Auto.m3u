@@ -125,11 +125,11 @@ https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode
 #EXTINF:-1 group-title="General" tvg-id="テレ朝チャンネル2_jp" tvg-name="TV Asahi Channel 2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_67.png",TV Asahi Channel 2
 https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレビ大阪_jp" tvg-name="TV Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/250px-Tv_osaka_logo.svg.png",TV Osaka
-http://58.82.168.138:5002/gx05.m3u8?token=guoziyun&gid=gx05&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx05#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/250px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd07#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="WOWOWシネマ_jp" tvg-name="WOWOW Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Cinema
-http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=bs07&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="WOWOWライブ_jp" tvg-name="WOWOW Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Live
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="WOWOWプラス_jp" tvg-name="WOWOW Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_plus.png",WOWOW Plus
