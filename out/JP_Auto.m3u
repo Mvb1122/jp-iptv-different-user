@@ -85,7 +85,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd02#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd01#.m3u8|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="NHK大阪・総合_jp" tvg-name="NHK G Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka
 https://naori-test.netgenx.site/pxx.php?shk_cid=gx06#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="日本映画専門チャンネル_jp" tvg-name="Nihon Eiga Senmon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/PRPIC-20230705124343.%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB%E5%B0%82%E9%96%80%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%83%AD%E3%82%B4.jpg",Nihon Eiga Senmon
