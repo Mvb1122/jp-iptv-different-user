@@ -65,13 +65,13 @@ https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls|user-agen
 #EXTINF:-1 group-title="General" tvg-id="LaLa-TV_jp" tvg-name="LaLa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/LaLa_TV.png",LaLa TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs19#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="毎日テレビ_jp" tvg-name="MBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/250px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx01#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="メ～テレNEXT_jp" tvg-name="Me-Tele NEXT" tvg-logo="https://xuanzi-storage.netgenx.site/",Me-Tele NEXT
 https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="MONDOTV_jp" tvg-name="Mondo TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/554.png",Mondo TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs21#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=cs21&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="ムービープラス_jp" tvg-name="Movie Plus" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png",Movie Plus
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs14#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="ミステリーチャンネル_jp" tvg-name="Mystery Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/455.png",Mystery Channel
 https://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="ナショナル-ジオグラフィック_jp" tvg-name="National Geographic Japan" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/national_geographic_japan.png",National Geographic Japan
