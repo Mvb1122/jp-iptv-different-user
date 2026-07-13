@@ -39,7 +39,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs22#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="ファミリー劇場_jp" tvg-name="Family Gekijyo" tvg-logo="https://i.imgur.com/PCx6Qz3.png",Family Gekijyo
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd05#.m3u8|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="フジテレビNEXT_jp" tvg-name="Fuji TV NEXT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV NEXT
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs26#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="フジテレビONE_jp" tvg-name="Fuji TV ONE" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_70.png",Fuji TV ONE
