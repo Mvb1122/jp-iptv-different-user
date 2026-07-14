@@ -65,7 +65,7 @@ https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls|user-agen
 #EXTINF:-1 group-title="General" tvg-id="LaLa-TV_jp" tvg-name="LaLa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/LaLa_TV.png",LaLa TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs19#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="毎日テレビ_jp" tvg-name="MBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/250px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx01#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="メ～テレNEXT_jp" tvg-name="Me-Tele NEXT" tvg-logo="https://xuanzi-storage.netgenx.site/",Me-Tele NEXT
 https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="MONDOTV_jp" tvg-name="Mondo TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/554.png",Mondo TV
@@ -81,7 +81,7 @@ https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls|user-a
 #EXTINF:-1 group-title="General" tvg-id="NHK・BS_jp" tvg-name="NHK BS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs11#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="NHK・BSP_jp" tvg-name="NHK BS4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
-http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd02#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
@@ -127,7 +127,7 @@ https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode
 #EXTINF:-1 group-title="General" tvg-id="テレビ大阪_jp" tvg-name="TV Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/250px-Tv_osaka_logo.svg.png",TV Osaka
 https://naori-test.netgenx.site/pxx.php?shk_cid=gx05#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/250px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd07#.m3u8|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="WOWOWシネマ_jp" tvg-name="WOWOW Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Cinema
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="WOWOWライブ_jp" tvg-name="WOWOW Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Live
@@ -152,7 +152,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs24#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Kids" tvg-id="ディズニージュニア_jp" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2002_Disney_Channel_full_logo.svg/250px-2002_Disney_Channel_full_logo.svg.png",Disney Junior
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs23#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Kids" tvg-id="キッズステーション_jp" tvg-name="Kids Station" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kids_Station.jpg/250px-Kids_Station.jpg",Kids Station
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs07#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying|user-agent=VLC
 
 # Music
 
@@ -189,7 +189,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="News/Business" tvg-id="ntvnews24.jp" tvg-name="NTV News24" tvg-logo="https://xuanzi-storage.netgenx.site/",NTV News24
 https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="News/Business" tvg-id="TBS-NEWS_jp" tvg-name="TBS News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_news.png",TBS News
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=cs11&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="News/Business" tvg-id="rch_45" tvg-name="Weather News" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Weathernews_logo.svg&w=200",Weather News
 https://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls|user-agent=VLC
 
