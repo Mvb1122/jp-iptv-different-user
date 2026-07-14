@@ -13,7 +13,7 @@ https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls|user-agen
 #EXTINF:-1 group-title="General" tvg-id="BS10プレミアム_jp" tvg-name="BS 10 Premium" tvg-logo="https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_bs10premium_short.png",BS 10 Premium
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BS11-イレブン_jp" tvg-name="BS 11" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs11.png",BS 11
-https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls|user-agent=VLC
+http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BS12トゥエルビ_jp" tvg-name="BS 12" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_26.png",BS 12
 https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BS朝日_jp" tvg-name="BS Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_asahi.png",BS Asahi
@@ -191,7 +191,7 @@ https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls|use
 #EXTINF:-1 group-title="News/Business" tvg-id="TBS-NEWS_jp" tvg-name="TBS News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_news.png",TBS News
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="News/Business" tvg-id="rch_45" tvg-name="Weather News" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Weathernews_logo.svg&w=200",Weather News
-https://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls|user-agent=VLC
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8|user-agent=VLC
 
 # Shopping
 
