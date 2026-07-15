@@ -69,7 +69,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=gx01#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="メ～テレNEXT_jp" tvg-name="Me-Tele NEXT" tvg-logo="https://xuanzi-storage.netgenx.site/",Me-Tele NEXT
 https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="MONDOTV_jp" tvg-name="Mondo TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/554.png",Mondo TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs21#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=cs21&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="ムービープラス_jp" tvg-name="Movie Plus" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png",Movie Plus
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs14#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="ミステリーチャンネル_jp" tvg-name="Mystery Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/455.png",Mystery Channel
@@ -191,7 +191,7 @@ https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls|use
 #EXTINF:-1 group-title="News/Business" tvg-id="TBS-NEWS_jp" tvg-name="TBS News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_news.png",TBS News
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="News/Business" tvg-id="rch_45" tvg-name="Weather News" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Weathernews_logo.svg&w=200",Weather News
-https://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls|user-agent=VLC
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8|user-agent=VLC
 
 # Shopping
 
@@ -223,8 +223,8 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs21#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="J-SPORTS-4_jp" tvg-name="JSport 4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs22#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="日テレジータス_jp" tvg-name="Nittele G+" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/752.png",Nittele G+
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs02#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs02.m3u8?token=guoziyun&gid=cs02&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="スカイA_jp" tvg-name="Sky A" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sky_a.png",Sky A
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs01#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=cs01&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="スポーツライブ+_jp" tvg-name="Sport Live Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sport_live_plus.png",Sport Live Plus
 https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls|user-agent=VLC
