@@ -49,7 +49,7 @@ https://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls|us
 #EXTINF:-1 group-title="General" tvg-id="ヒストリーチャンネル_jp" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/250px-History_Logo.svg.png",History
 http://58.82.168.138:5002/cs09.m3u8?token=guoziyun&gid=cs09&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="ホームドラマチャンネル_jp" tvg-name="Home Drama Channel" tvg-logo="https://image-origin.hikaritv.net/tv/ch_logos/460.jpg",Home Drama Channel
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&gid=cs05&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BSShochikuTokyu.jp" tvg-name="JCOM BS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119",JCOM BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="時代劇専門チャンネル_jp" tvg-name="Jidaigeki Senmon" tvg-logo="https://i.imgur.com/8T72RIH.png",Jidaigeki Senmon
@@ -165,7 +165,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs18#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Music" tvg-id="ミュージック・エア_jp" tvg-name="Music Air" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_76.png",Music Air
 https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Music" tvg-id="ミュージック・ジャパンTV_jp" tvg-name="Music Japan TV" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg",Music Japan TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs06#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Music" tvg-id="MUSIC-ON!-TV(エムオン!)_jp" tvg-name="Music ON TV" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_75.png",Music ON TV
 https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Music" tvg-id="スペースシャワーTV_jp" tvg-name="Space Shower TV" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=SPACE_SHOWER_TV.jpg&w=200",Space Shower TV
@@ -181,7 +181,7 @@ https://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hl
 # News/Business
 
 #EXTINF:-1 group-title="News/Business" tvg-id="BBCニュース_jp" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/250px-BBC_News_2019.svg.png",BBC News
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs15#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="News/Business" tvg-id="CNNj_jp" tvg-name="CNNj" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/250px-CNN.svg.png",CNNj
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs16#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="News/Business" tvg-id="NHKワールド-JAPAN_jp" tvg-name="NHK World-Japan" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/181.png",NHK World-Japan
@@ -211,11 +211,11 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs25#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="GAORA-SPORTS_jp" tvg-name="Gaora Sports" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=GAORA_SPORTS_logo.svg&w=200",Gaora Sports
 http://58.82.168.138:5002/cs17.m3u8?token=guoziyun&gid=cs17&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="ゴルフネットワーク_jp" tvg-name="Golf Network" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/754.png",Golf Network
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs03#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs03.m3u8?token=guoziyun&gid=cs03&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="グリーンチャンネル_jp" tvg-name="Green Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/770.png",Green Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs14#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="J-SPORTS-1_jp" tvg-name="JSport 1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs18#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs18.m3u8?token=guoziyun&gid=bs18&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="J-SPORTS-2_jp" tvg-name="JSport 2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs19#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="Sports" tvg-id="J-SPORTS-3_jp" tvg-name="JSport 3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
