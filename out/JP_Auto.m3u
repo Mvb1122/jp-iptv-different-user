@@ -3,35 +3,35 @@
 # General
 
 #EXTINF:-1 group-title="General" tvg-id="ABCテレビ_jp" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/250px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx02#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="アクションチャンネル_jp" tvg-name="Action Channel (AXN)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/action_channel_axn.png",Action Channel (AXN)
 https://haru.charandom.blog/stream/jp/action_channel_(axn)/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="アニマルプラネット_jp" tvg-name="Animal Planet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animal_planet.png",Animal Planet
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs24#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs24.m3u8?token=guoziyun&gid=cs24&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BS10_jp" tvg-name="BS 10" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10.png",BS 10
 https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BS10プレミアム_jp" tvg-name="BS 10 Premium" tvg-logo="https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_bs10premium_short.png",BS 10 Premium
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=bs08&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BS11-イレブン_jp" tvg-name="BS 11" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs11.png",BS 11
 https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BS12トゥエルビ_jp" tvg-name="BS 12" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_26.png",BS 12
 https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BS朝日_jp" tvg-name="BS Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_asahi.png",BS Asahi
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs03.m3u8?token=guoziyun&gid=bs03&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BSフジ_jp" tvg-name="BS Fuji" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_fuji.png",BS Fuji
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs06.m3u8?token=guoziyun&gid=bs06&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BS日テレ_jp" tvg-name="BS NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv.png",BS NTV
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs02#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs02.m3u8?token=guoziyun&gid=bs02&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BS-TBS_jp" tvg-name="BS TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tbs.png",BS TBS
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs04#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs04.m3u8?token=guoziyun&gid=bs04&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BSテレ東_jp" tvg-name="BS TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tv_tokyo.png",BS TV Tokyo
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs05.m3u8?token=guoziyun&gid=bs05&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BSよしもと_jp" tvg-name="BS Yoshimoto" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_yoshimoto.png",BS Yoshimoto
 https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="チャンネル銀河_jp" tvg-name="Channel Ginga" tvg-logo="https://www.icn-catv.jp/images/channel_logo/CS/CS_ginga.png",Channel Ginga
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="ディスカバリーチャンネル_jp" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-Logo_2019.svg/250px-Discovery_Channel-_Logo_2019.svg.png",Discovery Channel
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs08#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs08.m3u8?token=guoziyun&gid=cs08&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="Dlife(ディーライフ)_jp" tvg-name="DLife" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_54.png",DLife
 https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="衛星劇場_jp" tvg-name="Eisei Gekijo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-127-400x400.png",Eisei Gekijo
