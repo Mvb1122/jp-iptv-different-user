@@ -15,13 +15,13 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02|user-agent=VLC
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03|user-agent=VLC
 
 #EXTINF:-1 tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06|user-agent=VLC
+http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="TBS_jp" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png",TBS
 http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png",TV Tokyo
-http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=hdgd07&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07|user-agent=VLC
 
 #EXTINF:-1 tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
 http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongying|user-agent=VLC
@@ -78,13 +78,13 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8|user-agent=VLC
 # === BS Free ===
 
 #EXTINF:-1 tvg-id="NHK・BS_jp" tvg-name="NHK BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs.png",NHK BS
-http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs11|user-agent=VLC
 
 #EXTINF:-1 tvg-id="NHK・BS_jp" tvg-name="NHK BS (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs_sub_ch.png",NHK BS (Sub Ch.)
-http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs11|user-agent=VLC
 
 #EXTINF:-1 tvg-id="BS日テレ_jp" tvg-name="BS NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv.png",BS NTV
-http://58.82.168.138:5002/bs02.m3u8?token=guoziyun&gid=bs02&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs02|user-agent=VLC
 
 #EXTINF:-1 tvg-id="BS朝日_jp" tvg-name="BS Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_asahi.png",BS Asahi
 http://58.82.168.138:5002/bs03.m3u8?token=guoziyun&gid=bs03&channel=zhongying|user-agent=VLC
@@ -96,19 +96,19 @@ http://58.82.168.138:5002/bs04.m3u8?token=guoziyun&gid=bs04&channel=zhongying|us
 http://58.82.168.138:5002/bs05.m3u8?token=guoziyun&gid=bs05&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="BSフジ_jp" tvg-name="BS Fuji" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_fuji.png",BS Fuji
-http://58.82.168.138:5002/bs06.m3u8?token=guoziyun&gid=bs06&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs06|user-agent=VLC
 
 #EXTINF:-1 tvg-id="BS10_jp" tvg-name="BS 10" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10.png",BS 10
 http://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="BS11-イレブン_jp" tvg-name="BS11" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs11.png",BS11
-http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs11|user-agent=VLC
 
 #EXTINF:-1 tvg-id="BS12トゥエルビ_jp" tvg-name="BS 12" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_12.png",BS 12
 http://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="J-COM-BS_jp" tvg-name="JCOM BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jcom_bs.png",JCOM BS
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs31|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8|user-agent=VLC
 
 #EXTINF:-1 tvg-id="BSよしもと_jp" tvg-name="BS Yoshimoto" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_yoshimoto.png",BS Yoshimoto
 https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls|user-agent=VLC
@@ -116,7 +116,7 @@ https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls|u
 # === BS 4K ===
 
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BS4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs4k.png",NHK BS4K
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying|user-agent=VLC
 
 # === BS Premium ===
 
@@ -124,13 +124,13 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs01#.m3u8|user-agent=VLC
 http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=bs12&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.622" tvg-name="WOWOW Live" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_live.png",WOWOW Live
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.623" tvg-name="WOWOW Cinema" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_cinema.png",WOWOW Cinema
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=bs07&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.625" tvg-name="BS 10 Premium" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10_premium.png",BS 10 Premium
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs08|user-agent=VLC
+http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=bs08&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.630" tvg-name="WOWOW Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_plus.png",WOWOW Plus
 http://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls|user-agent=VLC
@@ -138,7 +138,7 @@ http://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls|user
 # === Sports ===
 
 #EXTINF:-1 tvg-id="CH.688" tvg-name="Green Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/green_channel.png",Green Channel
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs14|user-agent=VLC
+http://58.82.168.138:5002/bs14.m3u8?token=guoziyun&gid=bs14&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.603" tvg-name="JSport 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_1.png",JSport 1
 http://58.82.168.138:5002/bs18.m3u8?token=guoziyun&gid=bs18&channel=zhongying|user-agent=VLC
@@ -150,19 +150,19 @@ http://58.82.168.138:5002/bs19.m3u8?token=guoziyun&gid=bs19&channel=zhongying|us
 http://58.82.168.138:5002/bs21.m3u8?token=guoziyun&gid=bs21&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.605" tvg-name="JSport 4" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_4.png",JSport 4
-http://58.82.168.138:5002/bs22.m3u8?token=guoziyun&gid=bs22&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs22#.m3u8|user-agent=VLC
 
 #EXTINF:-1 tvg-id="rch_49" tvg-name="Sky A" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sky_a.png",Sky A
-http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=cs01&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs01#.m3u8|user-agent=VLC
 
 #EXTINF:-1 tvg-id="rch_51" tvg-name="Gaora Sports" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gaora_sports.png",Gaora Sports
 http://58.82.168.138:5002/cs17.m3u8?token=guoziyun&gid=cs17&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.608" tvg-name="Nittele G+" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nittele_g.png",Nittele G+
-http://58.82.168.138:5002/cs02.m3u8?token=guoziyun&gid=cs02&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs02#.m3u8|user-agent=VLC
 
 #EXTINF:-1 tvg-id="rch_75" tvg-name="Golf Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_network.png",Golf Network
-http://58.82.168.138:5002/cs03.m3u8?token=guoziyun&gid=cs03&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs03#.m3u8|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.580" tvg-name="Sport Live Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sport_live_plus.png",Sport Live Plus
 http://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls|user-agent=VLC
@@ -173,10 +173,10 @@ http://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode
 # === Movies & Drama ===
 
 #EXTINF:-1 tvg-id="CH.629" tvg-name="Toei Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png",Toei Channel
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs27#.m3u8|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs27|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.628" tvg-name="Eisei Gekijo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/eisei_gekijo.png",Eisei Gekijo
-http://58.82.168.138:5002/cs22.m3u8?token=guoziyun&gid=cs22&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs22|user-agent=VLC
 
 #EXTINF:-1 tvg-id="rch_59" tvg-name="Neco Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/neco_channel.png",Neco Channel
 http://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls|user-agent=VLC
@@ -215,16 +215,16 @@ https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode
 http://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.664" tvg-name="Channel Ginga" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/channel_ginga.png",Channel Ginga
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs29|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.614" tvg-name="Fuji TV ONE" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_one.png",Fuji TV ONE
-http://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls|user-agent=VLC
+https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.615" tvg-name="Fuji TV TWO" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_two.png",Fuji TV TWO
 http://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.613" tvg-name="Fuji TV NEXT" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_next.png",Fuji TV NEXT
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs26|user-agent=VLC
+http://58.82.168.138:5002/cs26.m3u8?token=guoziyun&gid=cs26&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.650" tvg-name="Action Channel (AXN)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/action_channel_axn.png",Action Channel (AXN)
 http://haru.charandom.blog/stream/jp/action_channel_(axn)/stream-output.m3u8?mode=hls|user-agent=VLC
@@ -233,7 +233,7 @@ http://haru.charandom.blog/stream/jp/action_channel_(axn)/stream-output.m3u8?mod
 http://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.654" tvg-name="LaLa TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/lala_tv.png",LaLa TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs19|user-agent=VLC
+http://58.82.168.138:5002/cs19.m3u8?token=guoziyun&gid=cs19&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.649" tvg-name="Mystery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mystery_channel.png",Mystery Channel
 http://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls|user-agent=VLC
@@ -241,13 +241,13 @@ http://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
 # === Anime & Kids ===
 
 #EXTINF:-1 tvg-id="CH.670" tvg-name="Animax" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animax.png",Animax
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs15|user-agent=VLC
+http://58.82.168.138:5002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.620" tvg-name="Disney Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_channel.png",Disney Channel
 http://58.82.168.138:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.669" tvg-name="Kids Staton" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kids_staton.png",Kids Staton
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs07#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.668" tvg-name="Cartoon Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cartoon_network.png",Cartoon Network
 http://58.82.168.138:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying|user-agent=VLC
@@ -264,10 +264,10 @@ http://58.82.168.138:5002/cs23.m3u8?token=guoziyun&gid=cs23&channel=zhongying|us
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs28|user-agent=VLC
 
 #EXTINF:-1 tvg-id="スペースシャワーTV_jp" tvg-name="Space Shower TV (HD)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/space_shower_tv.png",Space Shower TV (HD)
-http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs26#.m3u8|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.640" tvg-name="MTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mtv.png",MTV
-http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs18#.m3u8|user-agent=VLC
 
 #EXTINF:-1 tvg-id="ミュージック・エア_jp" tvg-name="Music Air" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_air.png",Music Air
 http://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls|user-agent=VLC
@@ -276,10 +276,10 @@ http://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls|user-
 https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="rch_85" tvg-name="Kayo Pops" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kayo_pops.png",Kayo Pops
-http://58.82.168.138:5002/cs13.m3u8?token=guoziyun&gid=cs13&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs13|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.639" tvg-name="Music Japan TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_japan_tv.png",Music Japan TV
-http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs06|user-agent=VLC
 
 # === Documentary & Lifestyle ===
 
@@ -307,7 +307,7 @@ http://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
 # === Variety & Hobby ===
 
 #EXTINF:-1 tvg-id="CH.659" tvg-name="Mondo TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mondo_tv.png",Mondo TV
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs21#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=cs21&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 tvg-id="メ～テレNEXT_jp" tvg-name="Me-Tele Next" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/me_tele_next.png",Me-Tele Next
 https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls|user-agent=VLC
