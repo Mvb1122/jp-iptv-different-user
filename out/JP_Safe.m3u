@@ -283,8 +283,8 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs26|user-agent=VLC
 #PARKED##EXTINF:-1 tvg-id="CH.650" tvg-name="Action Channel (AXN)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/action_channel_axn.png",Action Channel (AXN)
 #PARKED#http://haru.charandom.blog/stream/jp/action_channel_(axn)/stream-output.m3u8?mode=hls
 
-#PARKED##EXTINF:-1 tvg-id="Dlife(ディーライフ)_jp" tvg-name="Dlife" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/dlife.png",Dlife
-#PARKED#http://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="Dlife(ディーライフ)_jp" tvg-name="Dlife" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/dlife.png",Dlife
+http://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="CH.654" tvg-name="LaLa TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/lala_tv.png",LaLa TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs19|user-agent=VLC
@@ -458,14 +458,14 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-ra
 
 # === Korean & Asian ===
 
-#PARKED##EXTINF:-1 tvg-id="CH.658" tvg-name="Mnet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mnet.png",Mnet
-#PARKED#http://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.658" tvg-name="Mnet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mnet.png",Mnet
+http://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls|user-agent=VLC
 
-#PARKED##EXTINF:-1 tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs_world.png",KBS World
-#PARKED#http://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs_world.png",KBS World
+http://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls|user-agent=VLC
 
-#PARKED##EXTINF:-1 tvg-id="CH.657" tvg-name="KNTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kntv.png",KNTV
-#PARKED#http://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.657" tvg-name="KNTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kntv.png",KNTV
+http://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 tvg-id="rch_94" tvg-name="NEW KPOP" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/new_kpop.png",NEW KPOP
 https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165|user-agent=VLC
