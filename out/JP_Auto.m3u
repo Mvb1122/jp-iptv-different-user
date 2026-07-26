@@ -53,7 +53,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BSShochikuTokyu.jp" tvg-name="JCOM BS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119",JCOM BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="時代劇専門チャンネル_jp" tvg-name="Jidaigeki Senmon" tvg-logo="https://i.imgur.com/8T72RIH.png",Jidaigeki Senmon
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs04#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&gid=cs04&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="関西テレビ_jp" tvg-name="Kansai TV" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Ktv_logo.svg&w=200",Kansai TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=gx03#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="KBS京都_jp" tvg-name="KBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
