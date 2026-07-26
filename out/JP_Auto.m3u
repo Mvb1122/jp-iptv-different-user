@@ -53,7 +53,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BSShochikuTokyu.jp" tvg-name="JCOM BS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119",JCOM BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="時代劇専門チャンネル_jp" tvg-name="Jidaigeki Senmon" tvg-logo="https://i.imgur.com/8T72RIH.png",Jidaigeki Senmon
-http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&gid=cs04&channel=zhongying|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs04#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="関西テレビ_jp" tvg-name="Kansai TV" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Ktv_logo.svg&w=200",Kansai TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=gx03#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="KBS京都_jp" tvg-name="KBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
@@ -125,7 +125,7 @@ https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode
 #EXTINF:-1 group-title="General" tvg-id="テレ朝チャンネル2_jp" tvg-name="TV Asahi Channel 2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_67.png",TV Asahi Channel 2
 https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレビ大阪_jp" tvg-name="TV Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/250px-Tv_osaka_logo.svg.png",TV Osaka
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx05#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx05.m3u8?token=guoziyun&gid=gx05&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/250px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd07#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="WOWOWシネマ_jp" tvg-name="WOWOW Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Cinema
@@ -135,14 +135,14 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="WOWOWプラス_jp" tvg-name="WOWOW Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_plus.png",WOWOW Plus
 https://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="WOWOWプライム_jp" tvg-name="WOWOW Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Prime
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=bs12&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="読売テレビ_jp" tvg-name="Yomiuri TV" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Yomiuri_Telecasting_Corporation_Logo.svg&w=200",Yomiuri TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=gx04#.m3u8|user-agent=VLC
 
 # Kids
 
 #EXTINF:-1 group-title="Kids" tvg-id="アニマックス_jp" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/250px-Animax.svg.png",Animax
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs15#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="Kids" tvg-id="アニメシアター(AT-X)_jp" tvg-name="AT-X" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/at_x.png",AT-X
 https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="Kids" tvg-id="カートゥーン-ネットワーク_jp" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
