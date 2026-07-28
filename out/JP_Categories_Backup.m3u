@@ -104,6 +104,62 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakut
 #EXTINF:-1 group-title="ラクテンTV" tvg-id="rch_42" tvg-name="映画（年齢制限あり）" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_42.png",映画（年齢制限あり）
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
+# === FAST ===
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_samri" tvg-name="時代劇TV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_samri.png",時代劇TV (FAST)
+https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_comdy" tvg-name="LeminoTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/leminotv.png",LeminoTV (FAST)
+https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_asdrm.png",エンタメ・アジア (FAST)
+https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_busns" tvg-name="ビジネス・プレミアム (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_busns.png",ビジネス・プレミアム (FAST)
+https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_entns" tvg-name="エンタメニュース (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_entns.png",エンタメニュース (FAST)
+https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_news1.png",丸ごと九州 (FAST)
+https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_jpthp" tvg-name="ぴあ落語ざんまい (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_jpthp.png",ぴあ落語ざんまい (FAST)
+https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_snyon" tvg-name="FASHIONPLUS (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fashionplus.png",FASHIONPLUS (FAST)
+https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_goshogi" tvg-name="囲碁・将棋ライト (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_goshogi.png",囲碁・将棋ライト (FAST)
+https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_hokkaido" tvg-name="丸ごと北海道 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_hokkaido.png",丸ごと北海道 (FAST)
+https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_tokai.png",東海ロキポ (FAST)
+https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_pett1" tvg-name="ペットTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_pett1.png",ペットTV (FAST)
+https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_camng.png",キャンプ・アウトドア (FAST)
+https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_travl.png",今日のごはんなに? (FAST)
+https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_recip.png",観るたび (FAST)
+https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_life.png",GOLF LIFE (FAST)
+https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_kids.png",アニマックス FREE (FAST)
+https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8|user-agent=VLC
+
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_krdrm.png",韓流チャンネル (FAST)
+https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8|user-agent=VLC
+
 # === 地上デジタル ===
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
@@ -310,60 +366,6 @@ http://58.82.168.138:5002/cs12.m3u8?token=guoziyun&gid=cs12&channel=zhongying|us
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.659" tvg-name="Mondo TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mondo_tv.png",Mondo TV
 http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=cs21&channel=zhongying|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_samri" tvg-name="時代劇TV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_samri.png",時代劇TV (FAST)
-https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_comdy" tvg-name="LeminoTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/leminotv.png",LeminoTV (FAST)
-https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_asdrm.png",エンタメ・アジア (FAST)
-https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_busns" tvg-name="ビジネス・プレミアム (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_busns.png",ビジネス・プレミアム (FAST)
-https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_entns" tvg-name="エンタメニュース (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_entns.png",エンタメニュース (FAST)
-https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_news1.png",丸ごと九州 (FAST)
-https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_jpthp" tvg-name="ぴあ落語ざんまい (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_jpthp.png",ぴあ落語ざんまい (FAST)
-https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_snyon" tvg-name="FASHIONPLUS (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fashionplus.png",FASHIONPLUS (FAST)
-https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_goshogi" tvg-name="囲碁・将棋ライト (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_goshogi.png",囲碁・将棋ライト (FAST)
-https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_hokkaido" tvg-name="丸ごと北海道 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_hokkaido.png",丸ごと北海道 (FAST)
-https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_tokai.png",東海ロキポ (FAST)
-https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_pett1" tvg-name="ペットTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_pett1.png",ペットTV (FAST)
-https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_camng.png",キャンプ・アウトドア (FAST)
-https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_travl.png",今日のごはんなに? (FAST)
-https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_recip.png",観るたび (FAST)
-https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_life.png",GOLF LIFE (FAST)
-https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_kids.png",アニマックス FREE (FAST)
-https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8|user-agent=VLC
-
-#EXTINF:-1 group-title="CS放送" tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_krdrm.png",韓流チャンネル (FAST)
-https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_world_japan.png",NHK World-Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8|user-agent=VLC
