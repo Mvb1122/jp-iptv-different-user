@@ -17,7 +17,7 @@ http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying|us
 #EXTINF:-1 group-title="General" tvg-id="BS12トゥエルビ_jp" tvg-name="BS 12" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_26.png",BS 12
 https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BS朝日_jp" tvg-name="BS Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_asahi.png",BS Asahi
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs03#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs03.m3u8?token=guoziyun&gid=bs03&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BSフジ_jp" tvg-name="BS Fuji" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_fuji.png",BS Fuji
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs06#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BS日テレ_jp" tvg-name="BS NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv.png",BS NTV
@@ -119,15 +119,15 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=gd08#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="TOKYO・MX2_jp" tvg-name="TOKYO MX2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/250px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
 https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/250px-TV_Asahi_Logo.svg.png",TV Asahi
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd06#.m3u8|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレ朝チャンネル1_jp" tvg-name="TV Asahi Channel 1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_66.png",TV Asahi Channel 1
 https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレ朝チャンネル2_jp" tvg-name="TV Asahi Channel 2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_67.png",TV Asahi Channel 2
 https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレビ大阪_jp" tvg-name="TV Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/250px-Tv_osaka_logo.svg.png",TV Osaka
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx05#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx05.m3u8?token=guoziyun&gid=gx05&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/250px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd07#.m3u8|user-agent=VLC
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="WOWOWシネマ_jp" tvg-name="WOWOW Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Cinema
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="WOWOWライブ_jp" tvg-name="WOWOW Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Live
@@ -189,7 +189,7 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="News/Business" tvg-id="ntvnews24.jp" tvg-name="NTV News24" tvg-logo="https://xuanzi-storage.netgenx.site/",NTV News24
 https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="News/Business" tvg-id="TBS-NEWS_jp" tvg-name="TBS News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_news.png",TBS News
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=cs11&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="News/Business" tvg-id="rch_45" tvg-name="Weather News" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Weathernews_logo.svg&w=200",Weather News
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8|user-agent=VLC
 
