@@ -36,7 +36,7 @@ https://akariko-bck1.sankuria.sbs/stream/jp/bs_tbs_4k/stream-output.m3u8?mode=hl
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs05#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="BSテレ東-4K_jp" tvg-name="BS TV Tokyo 4K" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-171-400x400.png",BS TV Tokyo 4K
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls|user-agent=VLC
-#EXTINF:-1 group-title="General" tvg-id="BSよしもと_jp" tvg-name="BS Yoshimoto" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_yoshimoto.png",BS Yoshimoto
+#EXTINF:-1 group-title="General" tvg-id="BSよしもと_jp" tvg-name="BS Yoshimoto" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png",BS Yoshimoto
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="チャンネル銀河_jp" tvg-name="Channel Ginga" tvg-logo="https://www.icn-catv.jp/images/channel_logo/CS/CS_ginga.png",Channel Ginga
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs29#.m3u8|user-agent=VLC
@@ -48,7 +48,7 @@ https://akariko-bck1.sankuria.sbs/stream/jp/dlife/stream-output.m3u8?mode=hls|us
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs22#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="ファミリー劇場_jp" tvg-name="Family Gekijyo" tvg-logo="https://i.imgur.com/PCx6Qz3.png",Family Gekijyo
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs20#.m3u8|user-agent=VLC
-#EXTINF:-1 group-title="General" tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV
+#EXTINF:-1 group-title="General" tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png",Fuji TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="フジテレビNEXT_jp" tvg-name="Fuji TV NEXT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV NEXT
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs26#.m3u8|user-agent=VLC
@@ -60,7 +60,7 @@ https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv_two/stream-output.m3u8?mode=
 http://58.82.168.138:5002/cs09.m3u8?token=guoziyun&gid=cs09&channel=zhongying|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="ホームドラマチャンネル_jp" tvg-name="Home Drama Channel" tvg-logo="https://image-origin.hikaritv.net/tv/ch_logos/460.jpg",Home Drama Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs05#.m3u8|user-agent=VLC
-#EXTINF:-1 group-title="General" tvg-id="BSShochikuTokyu.jp" tvg-name="JCOM BS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119",JCOM BS
+#EXTINF:-1 group-title="General" tvg-id="J-COM-BS_jp" tvg-name="JCOM BS" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png",JCOM BS
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs31#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="時代劇専門チャンネル_jp" tvg-name="Jidaigeki Senmon" tvg-logo="https://i.imgur.com/8T72RIH.png",Jidaigeki Senmon
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs04#.m3u8|user-agent=VLC
@@ -124,9 +124,9 @@ https://akariko-bck1.sankuria.sbs/stream/jp/tetsudo_channel/stream-output.m3u8?m
 https://akariko-bck1.sankuria.sbs/stream/jp/the_cinema/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="東映チャンネル_jp" tvg-name="Toei Channel" tvg-logo="https://pbs.twimg.com/profile_images/1363766318298587139/TYkQgTdr_400x400.jpg",Toei Channel
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs27#.m3u8|user-agent=VLC
-#EXTINF:-1 group-title="General" tvg-id="TOKYO・MX_jp" tvg-name="TOKYO MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/250px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
+#EXTINF:-1 group-title="General" tvg-id="TOKYO・MX_jp" tvg-name="TOKYO MX1" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png",TOKYO MX1
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd08#.m3u8|user-agent=VLC
-#EXTINF:-1 group-title="General" tvg-id="TOKYO・MX2_jp" tvg-name="TOKYO MX2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/250px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
+#EXTINF:-1 group-title="General" tvg-id="TOKYO・MX2_jp" tvg-name="TOKYO MX2" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png",TOKYO MX2
 https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/250px-TV_Asahi_Logo.svg.png",TV Asahi
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06#.m3u8|user-agent=VLC
@@ -138,13 +138,13 @@ https://akariko-bck1.sankuria.sbs/stream/jp/tv_asahi_channel_2/stream-output.m3u
 https://naori-test.netgenx.site/pxx.php?shk_cid=gx05#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/250px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07#.m3u8|user-agent=VLC
-#EXTINF:-1 group-title="General" tvg-id="WOWOWシネマ_jp" tvg-name="WOWOW Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Cinema
+#EXTINF:-1 group-title="General" tvg-id="WOWOWシネマ_jp" tvg-name="WOWOW Cinema" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-193-400x400.png",WOWOW Cinema
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8|user-agent=VLC
-#EXTINF:-1 group-title="General" tvg-id="WOWOWライブ_jp" tvg-name="WOWOW Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Live
+#EXTINF:-1 group-title="General" tvg-id="WOWOWライブ_jp" tvg-name="WOWOW Live" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-192-400x400.png",WOWOW Live
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs20#.m3u8|user-agent=VLC
-#EXTINF:-1 group-title="General" tvg-id="WOWOWプラス_jp" tvg-name="WOWOW Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_plus.png",WOWOW Plus
+#EXTINF:-1 group-title="General" tvg-id="WOWOWプラス_jp" tvg-name="WOWOW Plus" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png",WOWOW Plus
 https://akariko-bck1.sankuria.sbs/stream/jp/wowow_plus/stream-output.m3u8?mode=hls|user-agent=VLC
-#EXTINF:-1 group-title="General" tvg-id="WOWOWプライム_jp" tvg-name="WOWOW Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Prime
+#EXTINF:-1 group-title="General" tvg-id="WOWOWプライム_jp" tvg-name="WOWOW Prime" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-191-400x400.png",WOWOW Prime
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="General" tvg-id="読売テレビ_jp" tvg-name="Yomiuri TV" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Yomiuri_Telecasting_Corporation_Logo.svg&w=200",Yomiuri TV
 https://naori-test.netgenx.site/pxx.php?shk_cid=gx04#.m3u8|user-agent=VLC
