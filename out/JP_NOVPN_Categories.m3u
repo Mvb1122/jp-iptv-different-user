@@ -3,10 +3,10 @@
 # === 地上デジタル ===
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
-https://akariko-bck1.sankuria.sbs/stream/jp/nhk_g/stream-output.m3u8?mode=hls|user-agent=VLC
+http://tsb-mega.i9.ee/stream/nhkg_avc_1080p|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="NHK東京・総合2_jp" tvg-name="NHK G (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_sub_ch.png",NHK G (Sub Ch.)
-http://haru.charandom.blog/stream/jp/nhk_g_(subch)/stream-output.m3u8?mode=hls|user-agent=VLC
+https://akariko-bck1.sankuria.sbs/stream/jp/nhk_g_2/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png",NHK E
 https://akariko-bck1.sankuria.sbs/stream/jp/nhk_e/stream-output.m3u8?mode=hls|user-agent=VLC
@@ -62,7 +62,7 @@ https://akariko-bck1.sankuria.sbs/stream/jp/ytv/stream-output.m3u8?mode=hls|user
 https://akariko-bck1.sankuria.sbs/stream/jp/nhk_bs/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="NHK・BS2_jp" tvg-name="NHK BS (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs_sub_ch.png",NHK BS (Sub Ch.)
-http://haru.charandom.blog/stream/jp/nhk_bs_(subch)/stream-output.m3u8?mode=hls|user-agent=VLC
+https://akariko-bck1.sankuria.sbs/stream/jp/nhk_bs_2/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="BS日テレ_jp" tvg-name="BS NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv.png",BS NTV
 https://akariko-bck1.sankuria.sbs/stream/jp/bs_ntv/stream-output.m3u8?mode=hls|user-agent=VLC
