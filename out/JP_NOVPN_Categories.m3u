@@ -241,7 +241,7 @@ https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls|u
 https://akariko-bck1.sankuria.sbs/stream/jp/disney_channel/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.669" tvg-name="Kids Staton" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kids_staton.png",Kids Staton
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs07|user-agent=VLC
+http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.668" tvg-name="Cartoon Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cartoon_network.png",Cartoon Network
 https://akariko-bck1.sankuria.sbs/stream/jp/cartoon_network/stream-output.m3u8?mode=hls|user-agent=VLC
