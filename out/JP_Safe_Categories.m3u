@@ -382,17 +382,17 @@ https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv_two/stream-output.m3u8?mode=
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.613" tvg-name="Fuji TV NEXT" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_next.png",Fuji TV NEXT
 https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.650" tvg-name="Action Channel (AXN)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/action_channel_axn.png",Action Channel (AXN)
-https://akariko-bck1.sankuria.sbs/stream/jp/action_channel/stream-output.m3u8?mode=hls|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.650" tvg-name="Action Channel (AXN)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/action_channel_axn.png",Action Channel (AXN)
+#PARKED#https://akariko-bck1.sankuria.sbs/stream/jp/action_channel/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 group-title="CS放送" tvg-id="Dlife(ディーライフ)_jp" tvg-name="Dlife" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/dlife.png",Dlife
-https://akariko-bck1.sankuria.sbs/stream/jp/dlife/stream-output.m3u8?mode=hls|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="Dlife(ディーライフ)_jp" tvg-name="Dlife" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/dlife.png",Dlife
+#PARKED#https://akariko-bck1.sankuria.sbs/stream/jp/dlife/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.654" tvg-name="LaLa TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/lala_tv.png",LaLa TV
 https://akariko-bck1.sankuria.sbs/stream/jp/lala_tv/stream-output.m3u8?mode=hls|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.649" tvg-name="Mystery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mystery_channel.png",Mystery Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/mystery_channel/stream-output.m3u8?mode=hls|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.649" tvg-name="Mystery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mystery_channel.png",Mystery Channel
+#PARKED#https://akariko-bck1.sankuria.sbs/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.670" tvg-name="Animax" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animax.png",Animax
 https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls|user-agent=VLC
@@ -421,8 +421,8 @@ https://akariko-bck1.sankuria.sbs/stream/jp/space_shower_tv/stream-output.m3u8?m
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.640" tvg-name="MTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mtv.png",MTV
 https://akariko-bck1.sankuria.sbs/stream/jp/mtv/stream-output.m3u8?mode=hls|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="ミュージック・エア_jp" tvg-name="Music Air" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_air.png",Music Air
-https://akariko-bck1.sankuria.sbs/stream/jp/music_air/stream-output.m3u8?mode=hls|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="ミュージック・エア_jp" tvg-name="Music Air" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_air.png",Music Air
+#PARKED#https://akariko-bck1.sankuria.sbs/stream/jp/music_air/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.641" tvg-name="Music ON TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_on_tv.png",Music ON TV
 https://akariko-bck1.sankuria.sbs/stream/jp/music_on_tv/stream-output.m3u8?mode=hls|user-agent=VLC
@@ -448,8 +448,8 @@ https://akariko-bck1.sankuria.sbs/stream/jp/national_geographic_japan/stream-out
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.544" tvg-name="Tabi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tabi_channel.png",Tabi Channel
 https://akariko-bck1.sankuria.sbs/stream/jp/tabi_channel/stream-output.m3u8?mode=hls|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="rch_30" tvg-name="Tetsudo Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tetsudo_channel.png",Tetsudo Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="rch_30" tvg-name="Tetsudo Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tetsudo_channel.png",Tetsudo Channel
+#PARKED#https://akariko-bck1.sankuria.sbs/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.659" tvg-name="Mondo TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mondo_tv.png",Mondo TV
 https://akariko-bck1.sankuria.sbs/stream/jp/mondo_tv/stream-output.m3u8?mode=hls|user-agent=VLC
@@ -457,20 +457,20 @@ https://akariko-bck1.sankuria.sbs/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS放送" tvg-id="メ～テレNEXT_jp" tvg-name="Me-Tele Next" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/me_tele_next.png",Me-Tele Next
 https://akariko-bck1.sankuria.sbs/stream/jp/me-tele_next/stream-output.m3u8?mode=hls|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="rch_36" tvg-name="Shogi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/shogi_channel.png",Shogi Channel
-https://akariko-bck1.sankuria.sbs/stream/jp/shogi_channel/stream-output.m3u8?mode=hls|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="rch_36" tvg-name="Shogi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/shogi_channel.png",Shogi Channel
+#PARKED#https://akariko-bck1.sankuria.sbs/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_100" tvg-name="囲碁・将棋ライト" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_100.png",囲碁・将棋ライト (R)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.658" tvg-name="Mnet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mnet.png",Mnet
-https://akariko-bck1.sankuria.sbs/stream/jp/mnet/stream-output.m3u8?mode=hls|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.658" tvg-name="Mnet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mnet.png",Mnet
+#PARKED#https://akariko-bck1.sankuria.sbs/stream/jp/mnet/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs_world.png",KBS World
 https://akariko-bck1.sankuria.sbs/stream/jp/kbs_world/stream-output.m3u8?mode=hls|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.657" tvg-name="KNTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kntv.png",KNTV
-https://akariko-bck1.sankuria.sbs/stream/jp/kntv/stream-output.m3u8?mode=hls|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.657" tvg-name="KNTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kntv.png",KNTV
+#PARKED#https://akariko-bck1.sankuria.sbs/stream/jp/kntv/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="CS放送" tvg-id="ショップチャンネル_jp" tvg-name="ショップチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ch_a4d3ba28.png",ショップチャンネル
 https://stream3.shopch.jp/HLS/master.m3u8|user-agent=VLC
