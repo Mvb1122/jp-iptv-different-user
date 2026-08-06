@@ -466,8 +466,8 @@ https://akariko-bck1.sankuria.sbs/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="CS放送" tvg-id="メ～テレNEXT_jp" tvg-name="Me-Tele Next" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/me_tele_next.png",Me-Tele Next
 https://akariko-bck1.sankuria.sbs/stream/jp/me-tele_next/stream-output.m3u8?mode=hls|user-agent=VLC
 
-#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="rch_36" tvg-name="Shogi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/shogi_channel.png",Shogi Channel
-#PARKED#https://akariko-bck1.sankuria.sbs/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 group-title="CS放送" tvg-id="rch_36" tvg-name="Shogi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/shogi_channel.png",Shogi Channel
+https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_100" tvg-name="囲碁・将棋ライト" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_100.png",囲碁・将棋ライト (R)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8|user-agent=VLC
