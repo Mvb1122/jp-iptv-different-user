@@ -3,7 +3,7 @@
 # === Tokyo Terrestrial ===
 
 #EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
-http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying|user-agent=VLC
+http://tsb-mega.i9.ee/stream/nhkg_avc_1080p|user-agent=VLC
 
 #EXTINF:-1 tvg-id="NHK東京・総合2_jp" tvg-name="NHK G (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_sub_ch.png",NHK G (Sub Ch.)
 https://akariko-bck1.sankuria.sbs/stream/jp/nhk_g_2/stream-output.m3u8?mode=hls|user-agent=VLC
