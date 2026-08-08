@@ -29,8 +29,8 @@ http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongyin
 #EXTINF:-1 group-title="地上デジタル" tvg-id="TOKYO・MX_jp" tvg-name="TOKYO MX1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx1.png",TOKYO MX1
 http://58.82.168.138:5002/hdgd08.m3u8?token=guoziyun&gid=hdgd08&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="地上デジタル" tvg-id="TOKYO・MX2_jp" tvg-name="TOKYO MX2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx2.png",TOKYO MX2 (HD 720p)
-http://onyx.trustissues.life:80/live/s92xDqRk/nSNsw3mC/10321089.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="地上デジタル" tvg-id="TOKYO・MX2_jp" tvg-name="TOKYO MX2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx2.png",TOKYO MX2 (HD 720p)
+#PARKED#https://akariko-bck1.sankuria.sbs/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="NHK大阪・総合_jp" tvg-name="NHK G Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_osaka.png",NHK G Osaka
 http://58.82.168.138:5002/gx06.m3u8?token=guoziyun&gid=gx06&channel=zhongying|user-agent=VLC
@@ -41,8 +41,8 @@ http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying|us
 #EXTINF:-1 group-title="地上デジタル" tvg-id="毎日テレビ_jp" tvg-name="MBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mbs.png",MBS
 http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="地上デジタル" tvg-id="KBS京都_jp" tvg-name="KBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs.png",KBS
-http://onyx.trustissues.life:80/live/s92xDqRk/nSNsw3mC/10321087.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="地上デジタル" tvg-id="KBS京都_jp" tvg-name="KBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs.png",KBS
+#PARKED#https://akariko-bck1.sankuria.sbs/stream/jp/kbs/stream-output.m3u8?mode=hls
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="ABCテレビ_jp" tvg-name="ABC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/abc.png",ABC
 http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying|user-agent=VLC
