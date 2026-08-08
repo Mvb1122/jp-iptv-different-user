@@ -133,11 +133,11 @@ https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8|user-a
 #EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_camng.png",キャンプ・アウトドア (FAST)
 https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8|user-agent=VLC
 
-#PARKED##EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_travl.png",今日のごはんなに? (FAST)
-#PARKED#https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_travl.png",今日のごはんなに? (FAST)
+https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8|user-agent=VLC
 
-#PARKED##EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_recip.png",観るたび (FAST)
-#PARKED#https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+#EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_recip.png",観るたび (FAST)
+https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="FAST" tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_news1.png",丸ごと九州 (FAST)
 https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8|user-agent=VLC
