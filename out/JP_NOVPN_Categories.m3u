@@ -5,327 +5,327 @@
 #EXTINF:-1 group-title="地上デジタル" tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
 http://tsb-mega.i9.ee/stream/nhkg_avc_1080p|user-agent=VLC
 
-#EXTINF:-1 group-title="地上デジタル" tvg-id="NHK東京・総合2_jp" tvg-name="NHK G (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_sub_ch.png",NHK G (Sub Ch.)
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=19539e3ab8eb86a9a92d5eea21245cd84#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="地上デジタル" tvg-id="NHK東京・総合2_jp" tvg-name="NHK G (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_sub_ch.png",NHK G (Sub Ch.)
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=19539e3ab8eb86a9a92d5eea21245cd84#.m3u8
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png",NHK E
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=29e1da1d18419990038a4a0ebf285d52a#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/hdgd02.m3u8?token=guoziyun&gid=hdgd02&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=158392c50acf65316f328be33130d06aa#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1b885170724617b9e3f6fe5d24914955e#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="TBS_jp" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png",TBS
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1ae7eead24f146c1ebd862caab4f8e23d#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png",TV Tokyo
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=133f5ad491dd2ea5265345f4984aa7504#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=hdgd07&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=186c510fcf1ec45dce241a79730dff0b0#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="TOKYO・MX_jp" tvg-name="TOKYO MX1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx1.png",TOKYO MX1
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=188484310a4df95891688c5aa17543b81#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/hdgd08.m3u8?token=guoziyun&gid=hdgd08&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="地上デジタル" tvg-id="TOKYO・MX2_jp" tvg-name="TOKYO MX2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx2.png",TOKYO MX2 (HD 720p)
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=293f4e4476bbd1b401d27e54f9f26f41b#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="地上デジタル" tvg-id="TOKYO・MX2_jp" tvg-name="TOKYO MX2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx2.png",TOKYO MX2 (HD 720p)
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=293f4e4476bbd1b401d27e54f9f26f41b#.m3u8
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="NHK大阪・総合_jp" tvg-name="NHK G Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_osaka.png",NHK G Osaka
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2dff1094a01e170d0626893f1006fcb5e#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx06.m3u8?token=guoziyun&gid=gx06&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="地上デジタル" tvg-id="NHK京都・総合_jp" tvg-name="NHK G Kyoto" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_kyoto.png",NHK G Kyoto
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=13f906571e73d30e657a6f3b0c81c3972#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="地上デジタル" tvg-id="NHK京都・総合_jp" tvg-name="NHK G Kyoto" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_kyoto.png",NHK G Kyoto
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=13f906571e73d30e657a6f3b0c81c3972#.m3u8
 
-#EXTINF:-1 group-title="地上デジタル" tvg-id="NHK大阪・教育_jp" tvg-name="NHK E Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e_osaka.png",NHK E Osaka
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=25679230fbfaa9b388e056109e41c8100#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="地上デジタル" tvg-id="NHK大阪・教育_jp" tvg-name="NHK E Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e_osaka.png",NHK E Osaka
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=25679230fbfaa9b388e056109e41c8100#.m3u8
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="サンテレビ_jp" tvg-name="SUN" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sun.png",SUN
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2dff119c3fb8755ce47b1eb377e9cb37d#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="毎日テレビ_jp" tvg-name="MBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mbs.png",MBS
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=11eef7611d43093910c6939adc560f16e#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="地上デジタル" tvg-id="KBS京都_jp" tvg-name="KBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs.png",KBS
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=17c9ea3422de203abbc786a3839c14638#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="地上デジタル" tvg-id="KBS京都_jp" tvg-name="KBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs.png",KBS
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=17c9ea3422de203abbc786a3839c14638#.m3u8
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="ABCテレビ_jp" tvg-name="ABC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/abc.png",ABC
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2be8f983b47cfb012f90cabae32f59969#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="テレビ大阪_jp" tvg-name="TV Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_osaka.png",TV Osaka
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1dc57dcdc9717a2c8c943255e3bd85e04#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx05.m3u8?token=guoziyun&gid=gx05&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="関西テレビ_jp" tvg-name="Kansai TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kansai_tv.png",Kansai TV
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=166fa472352e309c3938b6007bcbfd1e9#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx03.m3u8?token=guoziyun&gid=gx03&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="地上デジタル" tvg-id="読売テレビ_jp" tvg-name="ytv" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ytv.png",ytv
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=16eb2d8b1f05faf5beb1d41e773d43584#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/gx04.m3u8?token=guoziyun&gid=gx04&channel=zhongying|user-agent=VLC
 
 # === BS放送 ===
 
 #EXTINF:-1 group-title="BS放送" tvg-id="NHK・BS_jp" tvg-name="NHK BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs.png",NHK BS
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=149fb1419e970b164d7336bb3183b760a#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="BS放送" tvg-id="NHK・BS2_jp" tvg-name="NHK BS (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs_sub_ch.png",NHK BS (Sub Ch.)
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=29599f4ee5496d07e2c5ea6a3e7772089#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="BS放送" tvg-id="NHK・BS2_jp" tvg-name="NHK BS (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs_sub_ch.png",NHK BS (Sub Ch.)
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=29599f4ee5496d07e2c5ea6a3e7772089#.m3u8
 
 #EXTINF:-1 group-title="BS放送" tvg-id="BS日テレ_jp" tvg-name="BS NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv.png",BS NTV
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=10d3dc3a9f4f70786d905c923eac3879c#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs02.m3u8?token=guoziyun&gid=bs02&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="BS放送" tvg-id="BS日テレ-4K_jp" tvg-name="BS NTV 4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv_4k.png",BS NTV 4K
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1ec34774394191d91e8c2db852ffff836#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="BS放送" tvg-id="BS日テレ-4K_jp" tvg-name="BS NTV 4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv_4k.png",BS NTV 4K
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1ec34774394191d91e8c2db852ffff836#.m3u8
 
 #EXTINF:-1 group-title="BS放送" tvg-id="BS朝日_jp" tvg-name="BS Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_asahi.png",BS Asahi
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1695db78084ce5c4e1a1f0489000946ad#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs03.m3u8?token=guoziyun&gid=bs03&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="BS放送" tvg-id="BS朝日-4K_jp" tvg-name="BS Asahi 4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_asahi_4k.png",BS Asahi 4K
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1db08be4fab0e222c35ba4d9718a9db61#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="BS放送" tvg-id="BS朝日-4K_jp" tvg-name="BS Asahi 4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_asahi_4k.png",BS Asahi 4K
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1db08be4fab0e222c35ba4d9718a9db61#.m3u8
 
 #EXTINF:-1 group-title="BS放送" tvg-id="BS-TBS_jp" tvg-name="BS TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tbs.png",BS TBS
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1c564486ba0bf21a91e2a6b6e28407f02#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs04.m3u8?token=guoziyun&gid=bs04&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="BS放送" tvg-id="BS-TBS-4K_jp" tvg-name="BS TBS 4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tbs_4k.png",BS TBS 4K
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1d3531edb11fa470487fc62877b1cf947#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="BS放送" tvg-id="BS-TBS-4K_jp" tvg-name="BS TBS 4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tbs_4k.png",BS TBS 4K
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1d3531edb11fa470487fc62877b1cf947#.m3u8
 
 #EXTINF:-1 group-title="BS放送" tvg-id="BSテレ東_jp" tvg-name="BS TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tv_tokyo.png",BS TV Tokyo
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1ec0a07f28efada23e5ab0d2c6827c3f1#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs05.m3u8?token=guoziyun&gid=bs05&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="BS放送" tvg-id="BSテレ東-4K_jp" tvg-name="BS TV Tokyo 4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tv_tokyo_4k.png",BS TV Tokyo 4K
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1491d3767a9aaa008e51830ea00d53306#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="BS放送" tvg-id="BSテレ東-4K_jp" tvg-name="BS TV Tokyo 4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tv_tokyo_4k.png",BS TV Tokyo 4K
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1491d3767a9aaa008e51830ea00d53306#.m3u8
 
 #EXTINF:-1 group-title="BS放送" tvg-id="BSフジ_jp" tvg-name="BS Fuji" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_fuji.png",BS Fuji
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1a7a2b3fd4037a5485ffb4c327817b050#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs06.m3u8?token=guoziyun&gid=bs06&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="BS放送" tvg-id="BS10_jp" tvg-name="BS 10" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10.png",BS 10
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2506fdd1ea62e42f40b7d2ab6199d8c5c#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="BS放送" tvg-id="BS10_jp" tvg-name="BS 10" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10.png",BS 10
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2506fdd1ea62e42f40b7d2ab6199d8c5c#.m3u8
 
-#EXTINF:-1 group-title="BS放送" tvg-id="BS11-イレブン_jp" tvg-name="BS11" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs11.png",BS11
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2bb2f2a89229484c3413ee8435735a5b1#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="BS放送" tvg-id="BS11-イレブン_jp" tvg-name="BS11" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs11.png",BS11
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2bb2f2a89229484c3413ee8435735a5b1#.m3u8
 
-#EXTINF:-1 group-title="BS放送" tvg-id="BS12トゥエルビ_jp" tvg-name="BS 12" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_12.png",BS 12
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1fc39231d69b72701257837261d1366d9#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="BS放送" tvg-id="BS12トゥエルビ_jp" tvg-name="BS 12" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_12.png",BS 12
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1fc39231d69b72701257837261d1366d9#.m3u8
 
 #EXTINF:-1 group-title="BS放送" tvg-id="J-COM-BS_jp" tvg-name="JCOM BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jcom_bs.png",JCOM BS
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=21cb548d363a66620f4985c400d7a223b#.m3u8|user-agent=VLC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31|user-agent=VLC
 
-#EXTINF:-1 group-title="BS放送" tvg-id="BSよしもと_jp" tvg-name="BS Yoshimoto" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_yoshimoto.png",BS Yoshimoto
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=254c1fe5f163df3d16c6afee97d2e93ec#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="BS放送" tvg-id="BSよしもと_jp" tvg-name="BS Yoshimoto" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_yoshimoto.png",BS Yoshimoto
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=254c1fe5f163df3d16c6afee97d2e93ec#.m3u8
 
 #EXTINF:-1 group-title="BS放送" tvg-id="NHKBSP4K.jp" tvg-name="NHK BS4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs4k.png",NHK BS4K
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2ee8ddd078206f0306c9170d3a1431ff8#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="CH.621" tvg-name="WOWOW Prime" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_prime.png",WOWOW Prime
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=14dec677e7d419137030b612affd78e3f#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=bs12&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="CH.622" tvg-name="WOWOW Live" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_live.png",WOWOW Live
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1754802ae2ec09f5529c48069daba1385#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="CH.623" tvg-name="WOWOW Cinema" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_cinema.png",WOWOW Cinema
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2272733515e8782a343760e192dd8477d#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=bs07&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="BS放送" tvg-id="CH.625" tvg-name="BS 10 Premium" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10_premium.png",BS 10 Premium
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=22eaa9a10272344dccd2b9577af6cb297#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=bs08&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="BS放送" tvg-id="CH.630" tvg-name="WOWOW Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_plus.png",WOWOW Plus
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=18fef16e0a95f251fb690187f02475fcd#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="BS放送" tvg-id="CH.630" tvg-name="WOWOW Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_plus.png",WOWOW Plus
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=18fef16e0a95f251fb690187f02475fcd#.m3u8
 
-#EXTINF:-1 group-title="BS放送" tvg-id="rch_46" tvg-name="Fishing Vision" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fishing_vision.png",Fishing Vision
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1066f1552ceef380ab4bd25a453d0812f#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="BS放送" tvg-id="rch_46" tvg-name="Fishing Vision" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fishing_vision.png",Fishing Vision
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1066f1552ceef380ab4bd25a453d0812f#.m3u8
 
 #EXTINF:-1 group-title="BS放送" tvg-id="rch_45" tvg-name="Weather News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/weather_news.png",Weather News
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8|user-agent=VLC
 
 # === CS放送 ===
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.571" tvg-name="NTV News24" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv_news24.png",NTV News24
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1ccffa1587dcb3a4bc13b3a9923ee4209#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.571" tvg-name="NTV News24" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv_news24.png",NTV News24
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1ccffa1587dcb3a4bc13b3a9923ee4209#.m3u8
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.572" tvg-name="TBS News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_news.png",TBS News
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=18548966574725250e240abcd0d8e82d4#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=cs11&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.565" tvg-name="BBC News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bbc_news.png",BBC News
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=114d6fa627f716ef6e5cb36bc4df04cb1#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.566" tvg-name="CNNj" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cnnj.png",CNNj
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=14fb4d1e17303d637a79428d5ff2f80a4#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs16.m3u8?token=guoziyun&gid=cs16&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_world_japan.png",NHK World-Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.688" tvg-name="Green Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/green_channel.png",Green Channel
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1370e73e1b64b21af3be6306dcd148a82#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs14.m3u8?token=guoziyun&gid=bs14&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.603" tvg-name="JSport 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_1.png",JSport 1
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1f22c42673700c63d4ebeca698366ea92#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs18.m3u8?token=guoziyun&gid=bs18&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.604" tvg-name="JSport 2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_2.png",JSport 2
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=14961daa36ff79a545745bf76064abab2#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs19.m3u8?token=guoziyun&gid=bs19&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.606" tvg-name="JSport 3" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_3.png",JSport 3
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1dda3421fe686a9659a44443549126780#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs21.m3u8?token=guoziyun&gid=bs21&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.605" tvg-name="JSport 4" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_4.png",JSport 4
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1fed6a21cfb9b43271ba06ff5ed827bbf#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs22.m3u8?token=guoziyun&gid=bs22&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_49" tvg-name="Sky A" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sky_a.png",Sky A
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1feebfcb80e43d2661a0444663cd05dd9#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=cs01&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_51" tvg-name="Gaora Sports" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gaora_sports.png",Gaora Sports
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1ffa549f2ca5dbf8b33f9f1060e332b42#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs17.m3u8?token=guoziyun&gid=cs17&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.608" tvg-name="Nittele G+" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nittele_g.png",Nittele G+
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1b07a5a0c5cb309f5b3bdf904e56c5778#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs02.m3u8?token=guoziyun&gid=cs02&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_75" tvg-name="Golf Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_network.png",Golf Network
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=23737f89e9cbea790b951ad9a67459a78#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs03.m3u8?token=guoziyun&gid=cs03&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.580" tvg-name="Sport Live Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sport_live_plus.png",Sport Live Plus
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=133c5ee13b6a54ed85a80487e00cac22a#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.580" tvg-name="Sport Live Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sport_live_plus.png",Sport Live Plus
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=133c5ee13b6a54ed85a80487e00cac22a#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.581" tvg-name="スカチャン1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/skychan_1.png",スカチャン1
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=11852112b9a13a8b6d52dc51a66f2a8b9#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.581" tvg-name="スカチャン1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/skychan_1.png",スカチャン1
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=11852112b9a13a8b6d52dc51a66f2a8b9#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.600" tvg-name="Fighting TV Samurai" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fighting_tv_samurai.png",Fighting TV Samurai
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=171787ab586243e432ef44fcae36f9c77#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.600" tvg-name="Fighting TV Samurai" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fighting_tv_samurai.png",Fighting TV Samurai
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=171787ab586243e432ef44fcae36f9c77#.m3u8
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.629" tvg-name="Toei Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png",Toei Channel
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=10b97a4e70e5eb9ab60e63de2f4969470#.m3u8|user-agent=VLC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.628" tvg-name="Eisei Gekijo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/eisei_gekijo.png",Eisei Gekijo
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1467d68a249a196ea8db4e3843acef416#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs22.m3u8?token=guoziyun&gid=cs22&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="rch_59" tvg-name="Neco Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/neco_channel.png",Neco Channel
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=19f0dee37a0adbb53fa72448376714f2a#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="rch_59" tvg-name="Neco Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/neco_channel.png",Neco Channel
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=19f0dee37a0adbb53fa72448376714f2a#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.631" tvg-name="The Cinema" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/the_cinema.png",The Cinema
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1f3cdf75854f02ae43addb582d38f9fec#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.631" tvg-name="The Cinema" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/the_cinema.png",The Cinema
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1f3cdf75854f02ae43addb582d38f9fec#.m3u8
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.632" tvg-name="Movie Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/movie_plus.png",Movie Plus
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1ec87aba4c3d5fec7e2995666a0d5a669#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1c66d4a3bb66dc6b8b27ed0694f974b79#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.662" tvg-name="Jidaigeki Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jidaigeki_senmon.png",Jidaigeki Senmon
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=18d3de000aeeff0e4890bef8cbd095d63#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&gid=cs04&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.660" tvg-name="Family Gekijyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/family_gekijyo.png",Family Gekijyo
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=143a7cdc70ee45c2107042231e7e94e90#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs20.m3u8?token=guoziyun&gid=cs20&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.661" tvg-name="Home Drama Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/home_drama_channel.png",Home Drama Channel
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1e945a45a2ff4508d18785d001230f7fe#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&gid=cs05&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.616" tvg-name="TBS Channel 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_channel_1.png",TBS Channel 1
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=138f5cd2c4df4688a41947e2b8623c843#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.616" tvg-name="TBS Channel 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_channel_1.png",TBS Channel 1
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=138f5cd2c4df4688a41947e2b8623c843#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.617" tvg-name="TBS Channel 2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_channel_2.png",TBS Channel 2
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2b9a5dfbc46639bc1c617fcc383609069#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.617" tvg-name="TBS Channel 2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_channel_2.png",TBS Channel 2
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2b9a5dfbc46639bc1c617fcc383609069#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.611" tvg-name="TV Asahi Channel 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi_channel_1.png",TV Asahi Channel 1
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=11f2269c04043cc8f58df58563d2eb0c3#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.611" tvg-name="TV Asahi Channel 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi_channel_1.png",TV Asahi Channel 1
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=11f2269c04043cc8f58df58563d2eb0c3#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.612" tvg-name="TV Asahi Channel 2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi_channel_2.png",TV Asahi Channel 2
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1d2438204954a47fdca2f5b237b9fa85b#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.612" tvg-name="TV Asahi Channel 2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi_channel_2.png",TV Asahi Channel 2
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1d2438204954a47fdca2f5b237b9fa85b#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.619" tvg-name="Nittele Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nittele_plus.png",Nittele Plus
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=13b7a29438bb697b299207f39178bcced#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.619" tvg-name="Nittele Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nittele_plus.png",Nittele Plus
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=13b7a29438bb697b299207f39178bcced#.m3u8
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.664" tvg-name="Channel Ginga" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/channel_ginga.png",Channel Ginga
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1d208154529e34f9eef2f4a8c685b7232#.m3u8|user-agent=VLC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.614" tvg-name="Fuji TV ONE" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_one.png",Fuji TV ONE
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=189755a848d4bfc54177ffe4bd2c61c36#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.614" tvg-name="Fuji TV ONE" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_one.png",Fuji TV ONE
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=189755a848d4bfc54177ffe4bd2c61c36#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.615" tvg-name="Fuji TV TWO" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_two.png",Fuji TV TWO
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1847a0f478931e901788a07ed2cee0899#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.615" tvg-name="Fuji TV TWO" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_two.png",Fuji TV TWO
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1847a0f478931e901788a07ed2cee0899#.m3u8
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.613" tvg-name="Fuji TV NEXT" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_next.png",Fuji TV NEXT
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=18db599db496f7c162d943a1dc494df48#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs26.m3u8?token=guoziyun&gid=cs26&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.650" tvg-name="Action Channel (AXN)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/action_channel_axn.png",Action Channel (AXN)
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=10536ea2561790e4a735e6984fd0e916e#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.650" tvg-name="Action Channel (AXN)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/action_channel_axn.png",Action Channel (AXN)
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=10536ea2561790e4a735e6984fd0e916e#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="Dlife(ディーライフ)_jp" tvg-name="Dlife" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/dlife.png",Dlife
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1686703a3cc1e0f20f7ca46f6c1ff8834#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="Dlife(ディーライフ)_jp" tvg-name="Dlife" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/dlife.png",Dlife
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1686703a3cc1e0f20f7ca46f6c1ff8834#.m3u8
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.654" tvg-name="LaLa TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/lala_tv.png",LaLa TV
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1b6fad813874f23f9592fbe0450663707#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs19.m3u8?token=guoziyun&gid=cs19&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.649" tvg-name="Mystery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mystery_channel.png",Mystery Channel
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=13f097360bcf2ca00dee21edacd5e8b84#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.649" tvg-name="Mystery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mystery_channel.png",Mystery Channel
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=13f097360bcf2ca00dee21edacd5e8b84#.m3u8
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.670" tvg-name="Animax" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animax.png",Animax
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=170c780b44fd9848ff3d9c8330482fa64#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.620" tvg-name="Disney Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_channel.png",Disney Channel
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2278a8574ead80b9222695686d93ff895#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.669" tvg-name="Kids Staton" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kids_staton.png",Kids Staton
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1d30a28f3e5f8b0223481170e132cb20a#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.668" tvg-name="Cartoon Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cartoon_network.png",Cartoon Network
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=15ae42edc0663c4bb862ce0524fd549ee#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.667" tvg-name="AT-X" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/at_x.png",AT-X
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=13f80172c3641adc44b51b06468f4c180#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.667" tvg-name="AT-X" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/at_x.png",AT-X
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=13f80172c3641adc44b51b06468f4c180#.m3u8
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.672" tvg-name="Disney Junior" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_junior.png",Disney Junior
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1dcd4b3cba03bc3dace94c7ab5c73ba60#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs23.m3u8?token=guoziyun&gid=cs23&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="Takarazuka Sky Stage" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/takarazuka_sky_stage.png",Takarazuka Sky Stage
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1ca8b723f65f036f3691a1ab27de3d2bc#.m3u8|user-agent=VLC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="スペースシャワーTV_jp" tvg-name="Space Shower TV (HD)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/space_shower_tv.png",Space Shower TV (HD)
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=14798d3110461ee8704bfab2664016344#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.640" tvg-name="MTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mtv.png",MTV
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1db958e6c0a725f78930011154f16c84c#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="ミュージック・エア_jp" tvg-name="Music Air" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_air.png",Music Air
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1a6e8a5989a6c2563642c9fd362a79293#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="ミュージック・エア_jp" tvg-name="Music Air" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_air.png",Music Air
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1a6e8a5989a6c2563642c9fd362a79293#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.641" tvg-name="Music ON TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_on_tv.png",Music ON TV
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=14b01b86a90cedefc5c5dce1acf475c8b#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.641" tvg-name="Music ON TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_on_tv.png",Music ON TV
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=14b01b86a90cedefc5c5dce1acf475c8b#.m3u8
 
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_85" tvg-name="Kayo Pops" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kayo_pops.png",Kayo Pops
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=15f9501dd0ae33edd0388a4051086307a#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs13.m3u8?token=guoziyun&gid=cs13&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.639" tvg-name="Music Japan TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_japan_tv.png",Music Japan TV
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1b1c7c6dd568b4d2f98a0d558e0c78979#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.676" tvg-name="Discovery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/discovery_channel.png",Discovery Channel
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=15b3008b521b7a6ad99522aa5fa9fdabd#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs08.m3u8?token=guoziyun&gid=cs08&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.677" tvg-name="Animal Planet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animal_planet.png",Animal Planet
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1a99420314fed9070da550da5e6f2f330#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs24.m3u8?token=guoziyun&gid=cs24&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_43" tvg-name="History" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/history.png",History
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=156beafa2c9edc4a554281a3690a954d8#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs09.m3u8?token=guoziyun&gid=cs09&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.675" tvg-name="National Geographic Japan" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/national_geographic_japan.png",National Geographic Japan
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1326169eeadb107b5749e9cca2adc5c49#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs10.m3u8?token=guoziyun&gid=cs10&channel=zhongying|user-agent=VLC
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.544" tvg-name="Tabi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tabi_channel.png",Tabi Channel
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=12d36e710c4158908fd0f9a248e22bc04#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs12.m3u8?token=guoziyun&gid=cs12&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="rch_30" tvg-name="Tetsudo Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tetsudo_channel.png",Tetsudo Channel
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1bef97270950d7c6fdb1f44e53b63a2cc#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="rch_30" tvg-name="Tetsudo Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tetsudo_channel.png",Tetsudo Channel
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1bef97270950d7c6fdb1f44e53b63a2cc#.m3u8
 
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.659" tvg-name="Mondo TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mondo_tv.png",Mondo TV
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=156c8f204d3c925ac98082ebcf889e969#.m3u8|user-agent=VLC
+http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=cs21&channel=zhongying|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="メ～テレNEXT_jp" tvg-name="Me-Tele Next" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/me_tele_next.png",Me-Tele Next
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=130c82fd10e56b14e1c1448e674cfac85#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="メ～テレNEXT_jp" tvg-name="Me-Tele Next" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/me_tele_next.png",Me-Tele Next
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=130c82fd10e56b14e1c1448e674cfac85#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="rch_36" tvg-name="Shogi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/shogi_channel.png",Shogi Channel
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=172efdc0b11dcb99aa4825cfa5159ced6#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="rch_36" tvg-name="Shogi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/shogi_channel.png",Shogi Channel
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=172efdc0b11dcb99aa4825cfa5159ced6#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.658" tvg-name="Mnet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mnet.png",Mnet
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2d6b2b3d5441c388b10113832aded6061#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.658" tvg-name="Mnet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mnet.png",Mnet
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=2d6b2b3d5441c388b10113832aded6061#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs_world.png",KBS World
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=26dfaece2cb3dc399a6314d7db085b6fb#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs_world.png",KBS World
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=26dfaece2cb3dc399a6314d7db085b6fb#.m3u8
 
 #EXTINF:-1 group-title="CS放送" tvg-id="ショップチャンネル_jp" tvg-name="ショップチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ch_a4d3ba28.png",ショップチャンネル
 https://stream3.shopch.jp/HLS/master.m3u8|user-agent=VLC
@@ -336,11 +336,11 @@ https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8|user-agent=VLC
 #EXTINF:-1 group-title="CS放送" tvg-id="CH.527" tvg-name="GSTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gstv.png",GSTV (CS)
 https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)|user-agent=VLC
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.635" tvg-name="V Paradise" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/v_paradise.png",V Paradise
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1aaeeb321fec278972b3aea5f929a9bc3#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.635" tvg-name="V Paradise" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/v_paradise.png",V Paradise
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1aaeeb321fec278972b3aea5f929a9bc3#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="CH.535" tvg-name="ヌーヴェルパラダイス" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nouvelle_paradise.png",ヌーヴェルパラダイス
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1ff9a812a2bf0752a6daa6959e435b67d#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="CH.535" tvg-name="ヌーヴェルパラダイス" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nouvelle_paradise.png",ヌーヴェルパラダイス
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1ff9a812a2bf0752a6daa6959e435b67d#.m3u8
 
-#EXTINF:-1 group-title="CS放送" tvg-id="rch_41" tvg-name="Pigoo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/pigoo.png",Pigoo
-https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1827f6ab7906f013daeadef859acb0af8#.m3u8|user-agent=VLC
+#PARKED##EXTINF:-1 group-title="CS放送" tvg-id="rch_41" tvg-name="Pigoo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/pigoo.png",Pigoo
+#PARKED#https://ayaka-proxy.onrender.com/live/playlive.php?vhash=1827f6ab7906f013daeadef859acb0af8#.m3u8
